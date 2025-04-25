@@ -1,0 +1,8 @@
+venv/
+.venv/
+
+
+*.log
+
+vorecog/voice_sample/
+vorecog/models/

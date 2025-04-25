@@ -1,0 +1,6 @@
+numpy==2.2.5
+Resemblyzer==0.1.4
+scipy==1.15.2
+sounddevice==0.5.1
+torch==2.5.1+cu121
+vosk==0.3.45
