@@ -10,8 +10,6 @@ Real-time speaker recognition and transcription using Faster-Whisper and SpeechB
 
 - `/models/` → Whisper models
 - `/voice_sample/` → Your training voice recordings
-- `/embeddings/` → Saved voice embeddings
-- `/logs/` → Transcription logs
 
 ## Main Features
 
