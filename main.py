@@ -11,7 +11,7 @@ import torch
 import torch.nn.functional as F
 import torchaudio
 from scipy.io.wavfile import write
-from speechbrain.pretrained import EncoderClassifier
+from speechbrain.inference import EncoderClassifier
 import tempfile
 import io
 import soundfile as sf
@@ -46,8 +46,6 @@ def transcribe_in_memory(audio_np):#this is for the faster medium model
         audio_np = np.mean(audio_np, axis=0)  # mono
     # audio_np = torch.from_numpy(audio_np).cpu().numpy()
     audio_np = torch.from_numpy(audio_np).detach().cpu().numpy()
-
-
     segments, _ = model.transcribe(audio_np, language="en", beam_size=5, without_timestamps=True)
     text = ''.join(segment.text for segment in segments)
     return text.strip()
@@ -117,98 +115,101 @@ def main():
     last_speech = time.time()
     is_currently_speaking = False
     # last_partial_transcribe = time.time()
+    try:
+        with sd.InputStream(samplerate=SAMPLE_RATE, channels=CHANNELS, dtype='float32', callback=audio_callback, blocksize=BLOCK_SIZE):
+            while True:
+                data, timestamp = audio_queue.get()
+                rms = np.sqrt(np.mean((data * 32767).astype(np.float32) ** 2))
+                volume = min((rms / 3000) * 100, 100)
+                is_speaking = rms > RMS_THRESHOLD and volume >= MIN_VOLUME_THRESHOLD
+                now = time.time()
 
-    with sd.InputStream(samplerate=SAMPLE_RATE, channels=CHANNELS, dtype='float32', callback=audio_callback, blocksize=BLOCK_SIZE):
-        while True:
-            data, timestamp = audio_queue.get()
-            rms = np.sqrt(np.mean((data * 32767).astype(np.float32) ** 2))
-            volume = min((rms / 3000) * 100, 100)
-            is_speaking = rms > RMS_THRESHOLD and volume >= MIN_VOLUME_THRESHOLD
-            now = time.time()
+                if is_speaking:
+                    buffered_audio += (data * 32767).astype(np.int16).tobytes()
+                    if len(buffered_audio) > MAX_AUDIO_BYTES:
+                        buffered_audio = buffered_audio[-MAX_AUDIO_BYTES:]
+                    last_speech = now
+                    is_currently_speaking = True
 
-            if is_speaking:
-                buffered_audio += (data * 32767).astype(np.int16).tobytes()
-                if len(buffered_audio) > MAX_AUDIO_BYTES:
-                    buffered_audio = buffered_audio[-MAX_AUDIO_BYTES:]
-                last_speech = now
-                is_currently_speaking = True
-
-                audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
-                emb = get_embedding(audio_np)
-                sim = cosine_similarity(emb, your_embedding)
+                    audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
+                    emb = get_embedding(audio_np)
+                    sim = cosine_similarity(emb, your_embedding)
 
 
-                #partial showing
-                # if now - last_partial_transcribe >= PARTIAL_TRANSCRIBE_INTERVAL:
-                #     if len(buffered_audio) > 0:
-                #         audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
-                #         text = transcribe_in_memory(audio_np)
+                    #partial showing
+                    # if now - last_partial_transcribe >= PARTIAL_TRANSCRIBE_INTERVAL:
+                    #     if len(buffered_audio) > 0:
+                    #         audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
+                    #         text = transcribe_in_memory(audio_np)
 
-                #         if text and len(text.split()) >= MIN_WORDS_THRESHOLD:
-                #             avg_sim = sum(similarity_history) / len(similarity_history) if similarity_history else 0.0
-                #             label = "🟡"
-                #             print(f"{label} {dt.datetime.now().strftime('%H:%M')}: {text} (Partial) [Sim={avg_sim:.2f}]", end='\r')
+                    #         if text and len(text.split()) >= MIN_WORDS_THRESHOLD:
+                    #             avg_sim = sum(similarity_history) / len(similarity_history) if similarity_history else 0.0
+                    #             label = "🟡"
+                    #             print(f"{label} {dt.datetime.now().strftime('%H:%M')}: {text} (Partial) [Sim={avg_sim:.2f}]", end='\r')
 
-                #     last_partial_transcribe = now
+                    #     last_partial_transcribe = now
 
-                if sim >= SIMILARITY_PERCENTAGE:
-                    similarity_history.append(sim)
-                    if len(similarity_history) > HISTORY_SIZE:
-                        similarity_history.pop(0)
+                    if sim >= SIMILARITY_PERCENTAGE:
+                        similarity_history.append(sim)
+                        if len(similarity_history) > HISTORY_SIZE:
+                            similarity_history.pop(0)
 
-                avg_sim = sum(similarity_history) / len(similarity_history) if similarity_history else 0.0
+                    avg_sim = sum(similarity_history) / len(similarity_history) if similarity_history else 0.0
 
-                if is_training and sim >= SIMILARITY_PERCENTAGE and (now - last_training) > TRAINING_COOLDOWN:
-                    your_embedding = save_and_train(buffered_audio, sim, your_embedding)
-                    last_training = now
+                    if is_training and sim >= SIMILARITY_PERCENTAGE and (now - last_training) > TRAINING_COOLDOWN:
+                        your_embedding = save_and_train(buffered_audio, sim, your_embedding)
+                        last_training = now
 
-            else:
-                if is_currently_speaking and (now - last_speech) > SILENCE_DELAY_SECS:
-                    if len(buffered_audio) > 0:
-                        audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
-                        text = transcribe_in_memory(audio_np)
+                else:
+                    if is_currently_speaking and (now - last_speech) > SILENCE_DELAY_SECS:
+                        if len(buffered_audio) > 0:
+                            audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
+                            text = transcribe_in_memory(audio_np)
 
-                        if text and len(text.split()) >= MIN_WORDS_THRESHOLD:
-                            avg_sim = sum(similarity_history) / len(similarity_history) if similarity_history else 0.0
-                            label = "🟢 ME" if avg_sim >= SIMILARITY_PERCENTAGE else "🔵 OTHER"
-                            print(f"{label} {dt.datetime.now().strftime('%H:%M')}: {text} [Sim={avg_sim:.2f}]")
+                            if text and len(text.split()) >= MIN_WORDS_THRESHOLD:
+                                avg_sim = sum(similarity_history) / len(similarity_history) if similarity_history else 0.0
+                                label = "🟢 ME" if avg_sim >= SIMILARITY_PERCENTAGE else "🔵 OTHER"
+                                print(f"{label} {dt.datetime.now().strftime('%H:%M')}: {text} [rms={rms:.0f}, Vol={volume:.0f}, Sim={sim:.2f}]")
 
-                            log_entry = {
-                                "timestamp": str(dt.datetime.now().isoformat()),
-                                "text": text,
-                                "volume": str(volume),
-                                "similarity": str(avg_sim),
-                                "is_me": str(avg_sim >= SIMILARITY_PERCENTAGE)
-                            }
-                            if LOG_PATH.exists():
-                                with open(LOG_PATH, "r") as f:
-                                    logs = json.load(f)
-                            else:
-                                logs = []
-                            logs.append(log_entry)
-                            if len(logs) > 500:
-                                logs = logs[-500:]
-                            json.dump(logs, open(LOG_PATH, "w"), indent=2)
-                        
-                        if "stop training" in text.lower():
-                            is_training = False
+                                log_entry = {
+                                    "timestamp": str(dt.datetime.now().isoformat()),
+                                    "text": text,
+                                    "volume": str(volume),
+                                    "similarity": str(avg_sim),
+                                    "is_me": str(avg_sim >= SIMILARITY_PERCENTAGE)
+                                }
+                                if LOG_PATH.exists():
+                                    with open(LOG_PATH, "r") as f:
+                                        logs = json.load(f)
+                                else:
+                                    logs = []
+                                logs.append(log_entry)
+                                if len(logs) > 500:
+                                    logs = logs[-500:]
+                                json.dump(logs, open(LOG_PATH, "w"), indent=2)
                             
-                        if "start training" in text.lower():
-                            is_training = True
-                            
+                            if "stop training" in text.lower():
+                                is_training = False
+                                
+                            if "start training" in text.lower():
+                                is_training = True
+                                
 
-                        buffered_audio = b""
-                        similarity_history.clear()
-                        is_currently_speaking = False
+                            buffered_audio = b""
+                            similarity_history.clear()
+                            is_currently_speaking = False
 
-            if is_speaking:
-                if last_state != 'speaking':
-                    last_state = 'speaking'
-                silence_announced = False
-            elif not silence_announced and (now - last_speech) > SILENCE_DELAY_SECS:
-                # print(f"🔴 {dt.datetime.now().strftime('%H:%M')}: ...silent")
-                last_state = 'silent'
-                silence_announced = True
+                if is_speaking:
+                    if last_state != 'speaking':
+                        last_state = 'speaking'
+                    silence_announced = False
+                elif not silence_announced and (now - last_speech) > SILENCE_DELAY_SECS:
+                    # print(f"🔴 {dt.datetime.now().strftime('%H:%M')}: ...silent")
+                    last_state = 'silent'
+                    silence_announced = True
+
+    except Exception as e:
+        print(f"❌ Error occurred: {e}")
 
 # ========== Run ==========
 if __name__ == "__main__":
