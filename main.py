@@ -16,29 +16,10 @@ import tempfile
 import io
 import soundfile as sf
 from faster_whisper import WhisperModel
-
-# ========== Configurations ==========
-SAMPLE_RATE = 16000
-BLOCK_SIZE = 8000
-CHANNELS = 1
-RMS_THRESHOLD = 500.0
-MIN_VOLUME_THRESHOLD = 10
-SIMILARITY_PERCENTAGE = 0.45
-MIN_WORDS_THRESHOLD = 0
-REQUIRED_SAMPLES = 20
-HISTORY_SIZE = 5
-TRAINING_COOLDOWN = 6
-SILENCE_DELAY_SECS = 1
-MAX_AUDIO_SECONDS = 20  
-MAX_AUDIO_BYTES = SAMPLE_RATE * MAX_AUDIO_SECONDS * 2  
-PARTIAL_TRANSCRIBE_INTERVAL = 1.0  # seconds
+from vorecog.configs.config import *
 
 
-# ========== Paths ==========
-VOICE_FOLDER = Path("vorecog/voice_sample")
-VOICE_FOLDER.mkdir(parents=True, exist_ok=True)
-EMBEDDING_PATH = VOICE_FOLDER / "your_embedding.npy"
-LOG_PATH = Path("vorecog/voice_log.json")
+print(f"🛠️ Running Voice Recognition Project {VERSION}")
 
 # ========== Models ==========
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")

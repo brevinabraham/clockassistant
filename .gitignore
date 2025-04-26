@@ -6,3 +6,4 @@ venv/
 
 vorecog/voice_sample/
 vorecog/models/
+vorecog/voice_log.json
