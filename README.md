@@ -20,8 +20,6 @@ Real-time speaker recognition and transcription using Faster-Whisper and SpeechB
 
 ## Next Goals
 
-- Add partial live transcription
-- Support speaker diarization between multiple speakers
 - Add a GUI version (Tkinter or Electron)
 
 ## Author
