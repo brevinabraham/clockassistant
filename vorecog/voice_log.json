@@ -1,0 +1,1689 @@
+[
+  {
+    "timestamp": "2025-04-26T13:35:16.186794",
+    "text": "hello",
+    "volume": "1.5905771",
+    "similarity": "0.19101399183273315",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:35:26.638811",
+    "text": "okay but why is the similarity so low",
+    "volume": "0.34504226",
+    "similarity": "0.34375341832637785",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:35:34.384208",
+    "text": "shouldn't the similarity be increasing",
+    "volume": "0.64048505",
+    "similarity": "0.3444307267665863",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:35:43.640951",
+    "text": "like it's like dog shit what the fuck is this",
+    "volume": "0.46242326",
+    "similarity": "0.22551863342523576",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:35:53.026756",
+    "text": "why is my similarity so fucking low i'm the only one speaking bro",
+    "volume": "0.51238984",
+    "similarity": "0.23054828643798828",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:36:23.209812",
+    "text": "hello how is this similar similarity thing so low",
+    "volume": "0.46982443",
+    "similarity": "0.3906399071216583",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:40:21.058208",
+    "text": "hello my name is brethren and i'm creating if i smell to recognize when i speak",
+    "volume": "0.5987169",
+    "similarity": "0.7170862317085266",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:40:36.317082",
+    "text": "i am creating a voice model to recognize when i speak",
+    "volume": "0.5301492",
+    "similarity": "0.663408887386322",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:40:45.032449",
+    "text": "it is significantly better but why",
+    "volume": "0.5282555",
+    "similarity": "0.5541013956069947",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:40:57.302840",
+    "text": "see where the similarities are still like fifty five percent does that mean i have to re record my voice",
+    "volume": "0.47913113",
+    "similarity": "0.4511111319065094",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:41:06.659554",
+    "text": "see even goes down to forty five percent what the fuck is even that",
+    "volume": "0.56758773",
+    "similarity": "0.5629767894744873",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:41:17.461299",
+    "text": "also in terms of the volume he had still not",
+    "volume": "31.522346",
+    "similarity": "0.5407484948635102",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:41:25.134251",
+    "text": "like when i'm speaking at a normal voice they're still not going above say fifty",
+    "volume": "0.65220755",
+    "similarity": "0.5049478769302368",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:41:38.992362",
+    "text": "what if i am typing or anything like that does that change",
+    "volume": "0.62027985",
+    "similarity": "0.5264143943786621",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:41:48.063400",
+    "text": "now to do a quick test to see if i'm playing something else",
+    "volume": "0.44708177",
+    "similarity": "0.684875237941742",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:41:53.786856",
+    "text": "you forgetting",
+    "volume": "17.891678",
+    "similarity": "0.2318696767091751",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:00.535027",
+    "text": "okay so because that is completely different to mine",
+    "volume": "0.9457668",
+    "similarity": "0.6066218912601471",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:06.035109",
+    "text": "stop training",
+    "volume": "0.6519304",
+    "similarity": "0.56060431599617",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:16.592748",
+    "text": "okay so i'm going to play something slutty if it's going to pick it up",
+    "volume": "1.1990203",
+    "similarity": "0.6636737704277038",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:23.116965",
+    "text": "free food the salary the sign",
+    "volume": "29.145319",
+    "similarity": "0.06523694992065429",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:27.530873",
+    "text": "your parents will send you to resume talks",
+    "volume": "0.35704437",
+    "similarity": "0.09621613770723343",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:33.093678",
+    "text": "can we talk about the actual thing",
+    "volume": "6.0222583",
+    "similarity": "0.09621613770723343",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:45.523394",
+    "text": "case like this i don't care if you're a kid or an adult there is no scenario where this needs to be except i just got the brand new ipad air and you wouldn't believe how hard it is to actually find good ipad case until i got",
+    "volume": "0.61176795",
+    "similarity": "0.09139843434095382",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:42:55.200640",
+    "text": "okay so it is seeing that there is a big difference between that and my voice",
+    "volume": "0.31852567",
+    "similarity": "0.6660227239131927",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:43:00.683403",
+    "text": "wonderful",
+    "volume": "0.9251236",
+    "similarity": "0.4182072252035141",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:43:08.170772",
+    "text": "wonderful",
+    "volume": "0.6180794",
+    "similarity": "0.37128648459911345",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:43:15.949111",
+    "text": "i mean it's picking up the majority of the time maybe not all the time",
+    "volume": "0.32508096",
+    "similarity": "0.6455827176570892",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:43:25.005151",
+    "text": "okay so i'm using speech breed",
+    "volume": "1.2917781",
+    "similarity": "0.4542847454547882",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:02.983590",
+    "text": "yeah",
+    "volume": "0.39272624",
+    "similarity": "0.14197871834039688",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:05.834657",
+    "text": "huh",
+    "volume": "1.3788903",
+    "similarity": "0.15167470127344132",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:09.222345",
+    "text": "hello",
+    "volume": "11.879898",
+    "similarity": "0.18240031152963637",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:11.544238",
+    "text": "huh",
+    "volume": "20.508642",
+    "similarity": "0.17427908349782228",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:14.869825",
+    "text": "hello",
+    "volume": "5.5627756",
+    "similarity": "0.1561041610315442",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:21.235982",
+    "text": "how can you be not ten minutes i literally said it",
+    "volume": "7.3462167",
+    "similarity": "0.2546846479177475",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:27.581449",
+    "text": "but i literally said it",
+    "volume": "0.94715196",
+    "similarity": "0.33381086587905884",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:31.265871",
+    "text": "what",
+    "volume": "2.5410151",
+    "similarity": "0.27531217634677885",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:39.779415",
+    "text": "as tricked what do you mean we should trick or you tripped",
+    "volume": "28.522972",
+    "similarity": "0.16015841364860534",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:40.565208",
+    "text": "it me",
+    "volume": "0.4077896",
+    "similarity": "0.16015841364860534",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:51.977410",
+    "text": "very good so me to change my hello this is brethren i'm testing my voice",
+    "volume": "0.756622",
+    "similarity": "0.6097910642623902",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:48:55.829682",
+    "text": "speak",
+    "volume": "1.4295005",
+    "similarity": "0.5678525269031525",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:03.295606",
+    "text": "hello this is breathe in and test them advice",
+    "volume": "0.37406516",
+    "similarity": "0.18421083837747573",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:17.521739",
+    "text": "still higher than what today has he",
+    "volume": "30.606218",
+    "similarity": "0.13608540296554567",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:19.569355",
+    "text": "well have you guys ordered food without me",
+    "volume": "4.1858773",
+    "similarity": "0.1193204939365387",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:23.442124",
+    "text": "i don't think i don't think we have",
+    "volume": "18.131828",
+    "similarity": "0.30024760589003563",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:25.435363",
+    "text": "fatty",
+    "volume": "4.3906193",
+    "similarity": "0.30024760589003563",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:30.728500",
+    "text": "you are fat",
+    "volume": "1.1337005",
+    "similarity": "0.2950738452374935",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:35.913213",
+    "text": "excuse",
+    "volume": "15.585237",
+    "similarity": "0.16391168385744095",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:43.468367",
+    "text": "you could call nine nine nine",
+    "volume": "6.801422",
+    "similarity": "0.07118177264928818",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:48.677215",
+    "text": "he won't listen to others called nine-day",
+    "volume": "100",
+    "similarity": "0.38580221831798556",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:53.959685",
+    "text": "zero point zero seven you're just off by miles laugh at that",
+    "volume": "9.351654",
+    "similarity": "0.5595147371292114",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:49:59.600609",
+    "text": "well now you're just being racist",
+    "volume": "1.6549376",
+    "similarity": "0.429545933008194",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:50:08.368835",
+    "text": "sarah is racist brethren is",
+    "volume": "37.932507",
+    "similarity": "0.2542768746614456",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:50:11.832745",
+    "text": "thats fine",
+    "volume": "1.5428292",
+    "similarity": "0.06021491028368473",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:50:17.044646",
+    "text": "i couldn't tell the difference",
+    "volume": "100",
+    "similarity": "0.23257679492235184",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:50:19.277601",
+    "text": "because",
+    "volume": "100",
+    "similarity": "0.3028411030769348",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:50:23.992227",
+    "text": "because you spoke right after me obviously",
+    "volume": "3.293588",
+    "similarity": "0.4244398415088654",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:50:55.956055",
+    "text": "hello this is brethren testing voice wanting three",
+    "volume": "0.75682276",
+    "similarity": "0.7390825629234314",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:01.178969",
+    "text": "okay now basically speaking",
+    "volume": "42.13559",
+    "similarity": "0.5073490262031555",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:03.319077",
+    "text": "hello",
+    "volume": "24.230532",
+    "similarity": "0.43913323879241944",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:05.564801",
+    "text": "hello",
+    "volume": "0.74010384",
+    "similarity": "0.3850697338581085",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:12.438362",
+    "text": "now basically speaking",
+    "volume": "0.730246",
+    "similarity": "0.4200251460075378",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:20.211543",
+    "text": "now this is back to a brethren speaking",
+    "volume": "1.1840284",
+    "similarity": "0.5593300580978393",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:31.998734",
+    "text": "now this is back to basil speaking",
+    "volume": "0.6590097",
+    "similarity": "0.24429019987583162",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:38.986052",
+    "text": "now this is back to a province speaking",
+    "volume": "2.5116594",
+    "similarity": "0.4650357306003571",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:45.737531",
+    "text": "but i want pizza",
+    "volume": "3.791203",
+    "similarity": "0.183157367259264",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:51.965740",
+    "text": "unfortunately that command is not in here anymore",
+    "volume": "11.535953",
+    "similarity": "0.5974844932556153",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:51:57.567212",
+    "text": "because this thing is stupid",
+    "volume": "1.246806",
+    "similarity": "0.28149266839027404",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:07.862432",
+    "text": "that's what i thought that's what i thought",
+    "volume": "9.180197",
+    "similarity": "0.21395136415958405",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:10.921507",
+    "text": "why",
+    "volume": "25.563482",
+    "similarity": "0.16502546668052673",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:14.742385",
+    "text": "stop training",
+    "volume": "7.685867",
+    "similarity": "0.2777295559644699",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:20.659249",
+    "text": "okay okay okay",
+    "volume": "6.952618",
+    "similarity": "0.28514227271080017",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:29.318048",
+    "text": "yeah i have a list",
+    "volume": "100",
+    "similarity": "0.1012584388256073",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:31.559817",
+    "text": "but",
+    "volume": "100",
+    "similarity": "0.1285216897726059",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:36.026799",
+    "text": "sarah has a last night that sarah has her list",
+    "volume": "31.555372",
+    "similarity": "0.17526257857680322",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:37.932211",
+    "text": "that is all",
+    "volume": "100",
+    "similarity": "0.18285951837897302",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:46.007694",
+    "text": "they have a cliff my name is brendan but i'm from blackpool",
+    "volume": "0.698813",
+    "similarity": "0.21485179662704468",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:52:49.104423",
+    "text": "pizza",
+    "volume": "100",
+    "similarity": "0.15195317417383195",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:53:07.842363",
+    "text": "i removed all my name is sarah i'm sorry my name is my name is my name is sara sara right now guys all my name etc my imams but idaho",
+    "volume": "1.802012",
+    "similarity": "0.26791729032993317",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:53:13.196090",
+    "text": "i have i am on the spectrum",
+    "volume": "100",
+    "similarity": "0.235756254196167",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:53:17.291698",
+    "text": "beautiful are you talking about yourself",
+    "volume": "100",
+    "similarity": "0.3080351233482361",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:53:24.055254",
+    "text": "this accepted as yours was my treatment",
+    "volume": "42.786495",
+    "similarity": "0.4184671640396118",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:53:39.871717",
+    "text": "i did have it what's assuming it did you know that you have me yes why we're in this together how how do you even have autism all",
+    "volume": "100",
+    "similarity": "0.2883897751569748",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:53:44.167829",
+    "text": "bevin is off the charts reverence in every single category",
+    "volume": "100",
+    "similarity": "0.30355948209762573",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:53:51.439499",
+    "text": "the diversity cocktail on one hundred percent on either a phd or",
+    "volume": "57.118954",
+    "similarity": "0.20194378048181533",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:54:00.808126",
+    "text": "i don't want to say dyslexia because i think for that reason i think that's more perfect but you're definitely true diverse as well",
+    "volume": "94.351395",
+    "similarity": "0.1981543242931366",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:54:01.713541",
+    "text": "oh my god",
+    "volume": "29.688251",
+    "similarity": "0.21285446286201476",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:54:19.874183",
+    "text": "if it's not stimulating you're just not into it that's what i think i think but that doesn't make me have a dsp symptoms maybe hd people are you are you",
+    "volume": "100",
+    "similarity": "0.3806744396686554",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:54:20.825193",
+    "text": "i don't think so either",
+    "volume": "100",
+    "similarity": "0.387493759393692",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:55:08.186219",
+    "text": "it's about this morning staff training",
+    "volume": "6.0429296",
+    "similarity": "0.555946946144104",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:55:14.657304",
+    "text": "the only stop training finally",
+    "volume": "2.1554015",
+    "similarity": "0.36751240491867065",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:55:31.317020",
+    "text": "they don't give it to basil this bloody fizzy drink kidding what do you mean you will die too many talking can you know",
+    "volume": "100",
+    "similarity": "0.02433672361075878",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:55:34.360953",
+    "text": "i can even build my system properly",
+    "volume": "70.55368",
+    "similarity": "0.510828971862793",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:55:57.446738",
+    "text": "the system is racist you sound to say no i've fixed it okay okay that's good all says the person that got mixed i never got mixed up cause you don't sound the same i thought you left the house so did yeah so that's why i thought",
+    "volume": "100",
+    "similarity": "0.22086705267429352",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:56:20.494180",
+    "text": "but i didn't hear you say you saw the same but that it should hear my voice and hear his voice yet you should be able to tell the difference yes i can but you couldn't not okay let me play this your only you only realize that it was me after you came up to say no because you came out oh i came out of it",
+    "volume": "100",
+    "similarity": "0.3985951542854309",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:56:27.651319",
+    "text": "so i came up i was like bragging said yeah that's how you make it he was basil basil",
+    "volume": "100",
+    "similarity": "0.19895002245903015",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:56:29.207120",
+    "text": "they came out so hot",
+    "volume": "100",
+    "similarity": "0.2662294805049896",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:56:35.643631",
+    "text": "i'm confused because because",
+    "volume": "55.460125",
+    "similarity": "0.26062697172164917",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:56:45.610162",
+    "text": "it's because i was like how did he get in you he faced through the door this fatty",
+    "volume": "100",
+    "similarity": "0.39363983273506165",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:56:46.551473",
+    "text": "yeah",
+    "volume": "100",
+    "similarity": "0.4500693082809448",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:56:52.920276",
+    "text": "i can't believe you guys did",
+    "volume": "30.36669",
+    "similarity": "0.04433894157409668",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:57:02.594864",
+    "text": "oh okay yeah okay enjoy bye bye bye bye finally",
+    "volume": "27.268303",
+    "similarity": "0.130077064037323",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:57:14.293550",
+    "text": "what happened to you go into lemon stuff what happens to that no sense finally let's on monday",
+    "volume": "36.202168",
+    "similarity": "0.41723018884658813",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:57:15.533500",
+    "text": "i dunno what's your goal",
+    "volume": "39.753933",
+    "similarity": "0.35437411069869995",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:57:20.382583",
+    "text": "if i send a letter with my tongue like that",
+    "volume": "100",
+    "similarity": "0.24966487288475037",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:57:32.357304",
+    "text": "oh wow so racist well okay i'm not but okay but also easily bought",
+    "volume": "49.75369",
+    "similarity": "0.2042819708585739",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:57:38.030030",
+    "text": "me i cannot easily vote yes isn't that hard to stay focused",
+    "volume": "1.0856754",
+    "similarity": "0.2912060618400574",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:03.332954",
+    "text": "often enjoys doing physical activity and gets lost in it yeah he was a sunday and wasn't out but once that's not the only one handpicking certain things somebody was self diagnosing themselves from tiktok and instagram videos when that was",
+    "volume": "100",
+    "similarity": "0.41116586327552795",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:19.365073",
+    "text": "same thing wish i wasn't picking the person who told you that was wrong i've actually spoken to a therapist okay so i actually didn't think he'd have a phd i just think you have symptoms to be okay but that doesn't mean i have a dish that doesn't affect me",
+    "volume": "100",
+    "similarity": "0.2446514368057251",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:22.552046",
+    "text": "yeah but you can also listen",
+    "volume": "100",
+    "similarity": "0.17203329503536224",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:25.963909",
+    "text": "i said also",
+    "volume": "61.517014",
+    "similarity": "0.17095334827899933",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:40.680892",
+    "text": "from uk by i was joking by the way i wasn't being mean i wasn't being rude you don't have a diagnosis i'm sorry okay",
+    "volume": "100",
+    "similarity": "0.1459694504737854",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:41.092287",
+    "text": "okay okay",
+    "volume": "100",
+    "similarity": "0.1925831437110901",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:50.842110",
+    "text": "i have to be that loud when i speak though when i normally speak i don't even go past one out of one hundred",
+    "volume": "12.422141",
+    "similarity": "0.03853238373994827",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:53.674915",
+    "text": "yeah",
+    "volume": "24.612186",
+    "similarity": "0.1963990032672882",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:56.358863",
+    "text": "but",
+    "volume": "0.74165094",
+    "similarity": "0.1645796000957489",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:58:59.651793",
+    "text": "yeah",
+    "volume": "30.440607",
+    "similarity": "0.08918236196041107",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:59:06.306225",
+    "text": "this is me riveted",
+    "volume": "0.3683307",
+    "similarity": "0.3042922616004944",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:59:24.924234",
+    "text": "i've got a model that boom too",
+    "volume": "6.389242",
+    "similarity": "0.6772361993789673",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:59:27.119486",
+    "text": "speech",
+    "volume": "0.92107767",
+    "similarity": "0.14827275276184082",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:59:32.439030",
+    "text": "i'm going to try and do english as well but",
+    "volume": "1.3947027",
+    "similarity": "0.29595309495925903",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:59:41.375317",
+    "text": "cannabis katana here so basically that's what this is",
+    "volume": "3.2487438",
+    "similarity": "0.5767806172370911",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T13:59:46.006822",
+    "text": "oh",
+    "volume": "22.511623",
+    "similarity": "0.2054087072610855",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T13:59:52.054492",
+    "text": "okay i have to don't find a free version by anyways",
+    "volume": "100",
+    "similarity": "0.12928606569766998",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:08.199814",
+    "text": "what i'm doing is what it will do is this text or i'll say something i'm going to get charged to be t model from here it be i'll phrase it so that it'll be like you're my assistant",
+    "volume": "66.82703",
+    "similarity": "0.3610549569129944",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:14.406036",
+    "text": "that'd be here and then i'll use this text to speech so whatever this response will be coming up",
+    "volume": "95.46684",
+    "similarity": "0.08832497894763947",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:21.234741",
+    "text": "and then i'll just put nice interface and stuff and then the battle beta",
+    "volume": "0.67474407",
+    "similarity": "0.35767942667007446",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:28.359018",
+    "text": "hi",
+    "volume": "2.5254989",
+    "similarity": "-0.004932156763970852",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:37.140991",
+    "text": "oh my god several empty negatively",
+    "volume": "1.7606646",
+    "similarity": "0.4663811922073364",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:42.854365",
+    "text": "hi",
+    "volume": "0.60243636",
+    "similarity": "0.18629762530326843",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:55.069537",
+    "text": "how can the similarity be minus one point one one one i mean it's using a concern",
+    "volume": "1.9676483",
+    "similarity": "0.5216783881187439",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:00:59.828539",
+    "text": "to see if the luxury",
+    "volume": "47.968174",
+    "similarity": "0.35029131174087524",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:01:06.101767",
+    "text": "fluctuations on all the frequently noted",
+    "volume": "59.81157",
+    "similarity": "0.14477306604385376",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:01:09.736879",
+    "text": "fluctuation yeah kind of",
+    "volume": "59.276615",
+    "similarity": "0.5171611905097961",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:01:23.288043",
+    "text": "it's flattening out the details of my sample then of the new sample so like whatever i'm speaking right now my samples have already been",
+    "volume": "82.69781",
+    "similarity": "0.07762496173381805",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:01:28.746330",
+    "text": "and like all leave my sample",
+    "volume": "43.427357",
+    "similarity": "0.37843984365463257",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:01:34.089881",
+    "text": "you're talking between",
+    "volume": "100",
+    "similarity": "-0.05553172156214714",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:01:36.501302",
+    "text": "i",
+    "volume": "0.76118976",
+    "similarity": "0.10804445296525955",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:01:50.513566",
+    "text": "your massacre",
+    "volume": "4.6710286",
+    "similarity": "0.3736667037010193",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:02:00.404180",
+    "text": "i might maybe go today",
+    "volume": "0.9340901",
+    "similarity": "-0.07254459708929062",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:02:04.995477",
+    "text": "you should",
+    "volume": "54.916363",
+    "similarity": "0.24056077003479004",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:02:07.466991",
+    "text": "oh what a pretty pretty car",
+    "volume": "8.373225",
+    "similarity": "0.3523625135421753",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:02:15.366993",
+    "text": "what don't going to",
+    "volume": "80.30056",
+    "similarity": "0.23840728402137756",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:02:16.813209",
+    "text": "should we call it a day",
+    "volume": "0.9221198",
+    "similarity": "0.36782994866371155",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:02:47.589057",
+    "text": "the football",
+    "volume": "10.836428",
+    "similarity": "-0.009868133813142776",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:39:42.679729",
+    "text": "i said hello",
+    "volume": "1.4357293",
+    "similarity": "0.11683555692434311",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:39:47.251234",
+    "text": "hello",
+    "volume": "1.2773174",
+    "similarity": "0.21224400401115417",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:39:54.070789",
+    "text": "my is my similarity so low",
+    "volume": "0.97303206",
+    "similarity": "0.6675439476966858",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:40:00.922652",
+    "text": "that's more like it thank you very much",
+    "volume": "0.5495409",
+    "similarity": "0.34543514251708984",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:40:13.728919",
+    "text": "so what i'm trying to do is text to speech to text to audio",
+    "volume": "7.5910187",
+    "similarity": "0.09108906239271164",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:40:17.401969",
+    "text": "who's this",
+    "volume": "0.60654145",
+    "similarity": "0.20827153325080872",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:40:39.228454",
+    "text": "the",
+    "volume": "0.74765265",
+    "similarity": "0.20827153325080872",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:40:46.351519",
+    "text": "the sword and the speech recognition",
+    "volume": "1.0275328",
+    "similarity": "0.3558387756347656",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:41:08.646555",
+    "text": "the",
+    "volume": "14.744383",
+    "similarity": "0.3558387756347656",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:41:12.164875",
+    "text": "under power",
+    "volume": "0.9988396",
+    "similarity": "0.08961634337902069",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:41:35.463618",
+    "text": "the",
+    "volume": "1.7856171",
+    "similarity": "0.08961634337902069",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:41:57.636133",
+    "text": "the",
+    "volume": "1.1115818",
+    "similarity": "0.08961634337902069",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:42:19.842047",
+    "text": "the",
+    "volume": "26.796509",
+    "similarity": "0.040153659880161285",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:42:41.907733",
+    "text": "the upper speaker donations or annotation innocent",
+    "volume": "1.7825372",
+    "similarity": "0.3974542021751404",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:42:54.504034",
+    "text": "the",
+    "volume": "0.9153406",
+    "similarity": "0.3974542021751404",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:18.040630",
+    "text": "the pretty cool but the great",
+    "volume": "2.2212808",
+    "similarity": "0.34962502121925354",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:32.089880",
+    "text": "the pragmatic years are an exciting time",
+    "volume": "0.82373667",
+    "similarity": "0.19477562606334686",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:35.687353",
+    "text": "the requirements to annotate",
+    "volume": "32.197987",
+    "similarity": "0.32448095083236694",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:41.708486",
+    "text": "a segment cut speakers conditions",
+    "volume": "3.7327046",
+    "similarity": "0.23612886667251587",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:46.794282",
+    "text": "the",
+    "volume": "3.0797358",
+    "similarity": "0.23612886667251587",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:52.494871",
+    "text": "the shop",
+    "volume": "0.6824665",
+    "similarity": "0.034418344497680664",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:56.036169",
+    "text": "people have shared them",
+    "volume": "2.826595",
+    "similarity": "0.42060741782188416",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:43:59.621743",
+    "text": "and i shall never",
+    "volume": "0.45729777",
+    "similarity": "0.27225759625434875",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:44:05.933465",
+    "text": "the personal number",
+    "volume": "100",
+    "similarity": "0.2745061218738556",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:44:12.697293",
+    "text": "i called the there the day",
+    "volume": "12.073505",
+    "similarity": "0.25392916798591614",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:44:16.256334",
+    "text": "lf by the coroner ala",
+    "volume": "15.15229",
+    "similarity": "0.3322571814060211",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:44:28.601153",
+    "text": "the so",
+    "volume": "100",
+    "similarity": "0.09971043467521667",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:44:44.721554",
+    "text": "what i want is this torch to be used for the realization and audio",
+    "volume": "0.666396",
+    "similarity": "0.37656086683273315",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:44:59.674902",
+    "text": "the",
+    "volume": "2.7151368",
+    "similarity": "0.28430071473121643",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:45:07.791090",
+    "text": "the",
+    "volume": "0.99304134",
+    "similarity": "0.0950322300195694",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:45:25.710222",
+    "text": "thinking maybe the upper of the plasma the",
+    "volume": "31.982847",
+    "similarity": "0.3424977660179138",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:45:46.677371",
+    "text": "the laboratory nipple them with your tickets at the banner up quite a spam when expanded under together aaron",
+    "volume": "100",
+    "similarity": "0.30632632970809937",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:45:49.875897",
+    "text": "blocking the movement nevin bowling arena",
+    "volume": "60.755627",
+    "similarity": "0.33496397733688354",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:07.803680",
+    "text": "every message under the then block and the photos duncombe at the other way i still get it none of the fake fake",
+    "volume": "46.770397",
+    "similarity": "0.22892926633358002",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:08.202562",
+    "text": "ever",
+    "volume": "17.195652",
+    "similarity": "0.09703129529953003",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:09.736814",
+    "text": "the number of fake number i would have been it",
+    "volume": "12.978353",
+    "similarity": "0.07279735803604126",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:16.337999",
+    "text": "so the meme of that failure",
+    "volume": "0.45643178",
+    "similarity": "0.19866091012954712",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:21.625315",
+    "text": "the man",
+    "volume": "11.408329",
+    "similarity": "0.17155471444129944",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:39.723736",
+    "text": "the brunt of the project however is a very",
+    "volume": "43.90597",
+    "similarity": "0.3205186724662781",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:41.856467",
+    "text": "the oliver tambo",
+    "volume": "11.389121",
+    "similarity": "0.5323552489280701",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:55.544430",
+    "text": "okay let's say the whole point is that all the data to the server later on and i might do that",
+    "volume": "100",
+    "similarity": "0.06624715030193329",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:46:59.282979",
+    "text": "fellow liberal leader that was later",
+    "volume": "9.746839",
+    "similarity": "0.39900949597358704",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:00.956308",
+    "text": "a little more",
+    "volume": "1.1134427",
+    "similarity": "0.39900949597358704",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:04.501692",
+    "text": "peshawar his",
+    "volume": "0.6578218",
+    "similarity": "0.45255497097969055",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:11.141763",
+    "text": "lisa pachauri",
+    "volume": "0.6322184",
+    "similarity": "0.41018807888031006",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:13.013292",
+    "text": "hidden",
+    "volume": "0.8804787",
+    "similarity": "0.16621652245521545",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:17.090908",
+    "text": "can apple",
+    "volume": "0.98892355",
+    "similarity": "0.351320743560791",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:25.046342",
+    "text": "looks like i'll have to trade interpreted positively",
+    "volume": "19.234966",
+    "similarity": "0.21732045710086823",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:29.798421",
+    "text": "admittedly they're not doing that",
+    "volume": "2.7759976",
+    "similarity": "0.37590694427490234",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:37.544908",
+    "text": "hmm a threat and an adorable",
+    "volume": "80.74147",
+    "similarity": "0.2477857619524002",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:39.532334",
+    "text": "i think you",
+    "volume": "35.581635",
+    "similarity": "0.2645919620990753",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:50.340891",
+    "text": "no matter the racket can",
+    "volume": "34.8164",
+    "similarity": "0.307393342256546",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:47:53.643235",
+    "text": "matter what i say",
+    "volume": "4.438194",
+    "similarity": "0.3005461096763611",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:00.996061",
+    "text": "to be that one no",
+    "volume": "21.668737",
+    "similarity": "0.16124679148197174",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:01.427009",
+    "text": "yeah",
+    "volume": "5.4180827",
+    "similarity": "0.32028117775917053",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:04.856722",
+    "text": "how many",
+    "volume": "1.3923085",
+    "similarity": "0.29793378710746765",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:07.267219",
+    "text": "good luck",
+    "volume": "1.4930704",
+    "similarity": "0.26454958319664",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:14.680923",
+    "text": "i remember you",
+    "volume": "2.7133772",
+    "similarity": "0.17735737562179565",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:17.970983",
+    "text": "you cannot",
+    "volume": "1.5150975",
+    "similarity": "0.36113208532333374",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:33.531682",
+    "text": "hello this is my voice one two three",
+    "volume": "1.5589945",
+    "similarity": "0.6098651885986328",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:39.930110",
+    "text": "hello this is my voice one two three",
+    "volume": "2.234764",
+    "similarity": "0.7042320966720581",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:45.332420",
+    "text": "hello this is my voice one two three",
+    "volume": "1.207193",
+    "similarity": "0.7126362323760986",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:48:51.130956",
+    "text": "okay now what's the weather like",
+    "volume": "0.68329257",
+    "similarity": "0.5019465088844299",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:49:05.817998",
+    "text": "the so how does it go from zero point seven to zero point five in just a second",
+    "volume": "0.8435551",
+    "similarity": "0.6218267679214478",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T14:49:15.279511",
+    "text": "the sheep",
+    "volume": "86.03591",
+    "similarity": "0.09102875739336014",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:49:16.851466",
+    "text": "the ship",
+    "volume": "1.6189344",
+    "similarity": "0.09631793200969696",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:49:39.023975",
+    "text": "the",
+    "volume": "1.3089088",
+    "similarity": "0.09631793200969696",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:50:01.234534",
+    "text": "the",
+    "volume": "0.7116877",
+    "similarity": "-0.006778791546821594",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:50:23.903931",
+    "text": "the",
+    "volume": "0.88941807",
+    "similarity": "0.06734537333250046",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:50:47.204231",
+    "text": "the",
+    "volume": "0.45264316",
+    "similarity": "0.06734537333250046",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:51:06.406153",
+    "text": "the",
+    "volume": "4.354699",
+    "similarity": "0.06734537333250046",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:51:29.638331",
+    "text": "hm hm hm",
+    "volume": "45.2238",
+    "similarity": "0.1395389288663864",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:51:51.045405",
+    "text": "the",
+    "volume": "0.30099416",
+    "similarity": "0.19814909994602203",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T14:52:50.664154",
+    "text": "hello i am speaking now",
+    "volume": "0.5371052",
+    "similarity": "0.5124031901359558",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:14:53.899081",
+    "text": "Okay, right now it's not recognising my voice at all.",
+    "volume": "32.383286",
+    "similarity": "0.5772583484649658",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:14:59.350751",
+    "text": "Okay, maybe it is.",
+    "volume": "95.86391",
+    "similarity": "0.5339102447032928",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:15:57.168121",
+    "text": "I'm wondering if it can actually hear me.",
+    "volume": "89.12119",
+    "similarity": "0.5040191650390625",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:17:06.645921",
+    "text": "I'll wait a second before you respond.",
+    "volume": "22.256847",
+    "similarity": "0.4959856867790222",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:18:08.551230",
+    "text": "I'm literally fucking shouting. Is there any-",
+    "volume": "77.07077",
+    "similarity": "0.48027411103248596",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:18:17.384290",
+    "text": "Is there any way to do it without the...",
+    "volume": "84.55403",
+    "similarity": "0.4675910621881485",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:18:30.994907",
+    "text": "Is there any way without the audio file being created?",
+    "volume": "37.746243",
+    "similarity": "0.5136930167675018",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:18:39.053640",
+    "text": "But is there any way?",
+    "volume": "49.132652",
+    "similarity": "0.5136930167675018",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:18:50.287972",
+    "text": "I didn't ask if there is any way",
+    "volume": "23.391142",
+    "similarity": "0.5531550824642182",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:20:08.281044",
+    "text": "Can you hear me?",
+    "volume": "100",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T17:21:08.192082",
+    "text": "Why are you saying nothing?",
+    "volume": "89.41233",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T17:21:16.800675",
+    "text": "Okay, why aren't you saying anything hello?",
+    "volume": "52.712696",
+    "similarity": "0.4565141499042511",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:21:21.928517",
+    "text": "Now, how come this piece of that but doesn't pick up?",
+    "volume": "78.08357",
+    "similarity": "0.4565141499042511",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:21:33.396527",
+    "text": "No, when it doesn't pick up what I'm saying",
+    "volume": "45.248447",
+    "similarity": "0.4973210319876671",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:21:55.170701",
+    "text": "I can see that it's loud but how come it's not?",
+    "volume": "36.668476",
+    "similarity": "0.4973210319876671",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:22:05.290016",
+    "text": "Also, why is it stopping every five seconds or so?",
+    "volume": "39.85125",
+    "similarity": "0.4973210319876671",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:27:16.139144",
+    "text": "Hello, so good morning.",
+    "volume": "0.0739294",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T17:27:23.487314",
+    "text": "Hello Sugamano.",
+    "volume": "0.2837436",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-26T17:27:31.098023",
+    "text": "What is a Minto?",
+    "volume": "0.15739326",
+    "similarity": "0.5085040926933289",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:27:39.084867",
+    "text": "No, what I said.",
+    "volume": "0.23636983",
+    "similarity": "0.5085040926933289",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:27:46.761246",
+    "text": "And that is my last slide. That's it.",
+    "volume": "0.31013504",
+    "similarity": "0.5085040926933289",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:28:03.872581",
+    "text": "That's what I said.",
+    "volume": "0.17937197",
+    "similarity": "0.5085040926933289",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-26T17:28:11.121152",
+    "text": "No, is that what I said though?",
+    "volume": "0.100783736",
+    "similarity": "0.4898272603750229",
+    "is_me": "True"
+  }
+]
