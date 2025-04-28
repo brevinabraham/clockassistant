@@ -1,1745 +1,212 @@
 [
   {
-    "timestamp": "2025-04-28T18:10:59.596569",
-    "text": "low energy and high energy.",
-    "volume": "2.0985699",
-    "similarity": "0.6043015196919441",
+    "timestamp": "2025-04-28T21:33:05.011255",
+    "text": "Testing 1, 2, 3",
+    "volume": "4.27527",
+    "similarity": "0.5225070267915726",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T18:11:00.908082",
-    "text": "on Saturday.",
-    "volume": "1.2460592",
+    "timestamp": "2025-04-28T21:33:18.158497",
+    "text": "Wonderful.",
+    "volume": "4.127212",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T18:11:05.547439",
-    "text": "Hello.",
-    "volume": "1.631533",
+    "timestamp": "2025-04-28T21:33:33.285322",
+    "text": "why is the similarity for that very low why is the similarity for that very low and also why is it other",
+    "volume": "8.595331",
+    "similarity": "0.5992925524711609",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-28T21:33:43.240283",
+    "text": "Okay, now when might it be that someone else is starting to record it?",
+    "volume": "4.2691236",
+    "similarity": "0.5952264785766601",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-28T21:33:55.156548",
+    "text": "",
+    "volume": "9.284867",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T18:11:10.548588",
-    "text": "Hello.",
-    "volume": "1.2835764",
+    "timestamp": "2025-04-28T21:34:10.351208",
+    "text": "No! Lemon, a little bit of this.",
+    "volume": "4.6401",
+    "similarity": "0.45972442626953125",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-28T21:34:16.184038",
+    "text": "Let's say Monday night, we'll see.",
+    "volume": "5.730843",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T18:11:14.158672",
-    "text": "Why is it so low?",
-    "volume": "1.2354486",
-    "similarity": "0.4693930745124817",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:11:19.876505",
-    "text": "Maybe I need to move it closer.",
-    "volume": "3.6736276",
-    "similarity": "0.5048794001340866",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:11:26.234960",
-    "text": "Okay, is there any better now?",
-    "volume": "1.3657415",
-    "similarity": "0.46462851762771606",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:11:31.588957",
-    "text": "Okay, this is good. Hello. Hello.",
-    "volume": "1.1219898",
-    "similarity": "0.5131333271662394",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:11:36.127823",
-    "text": "Can you hear what I'm saying?",
-    "volume": "1.1240178",
-    "similarity": "0.4553392231464386",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:11:40.922401",
-    "text": "Namaskaram! Suka Bandle!",
-    "volume": "1.3451562",
-    "similarity": "0.4795691967010498",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:11:45.142377",
-    "text": "I'm like you.",
-    "volume": "2.1413777",
-    "similarity": "0.4992285668849945",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:11:57.242918",
-    "text": "I'm going to speak in Malayalam now. Is it comfortable or not?",
-    "volume": "1.5780131",
-    "similarity": "0.5585216760635376",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:12:02.577800",
-    "text": "Ah, okay, should be enough.",
-    "volume": "1.408619",
+    "timestamp": "2025-04-28T21:34:25.514142",
+    "text": "",
+    "volume": "5.0321794",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T18:12:08.608688",
-    "text": "Which mic is this picking up? I want to know my name.",
-    "volume": "1.408746",
-    "similarity": "0.5795536398887634",
+    "timestamp": "2025-04-28T21:34:31.742492",
+    "text": "Oh, another in Kiff Academy.",
+    "volume": "4.2486606",
+    "similarity": "0.5250252485275269",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T18:12:18.066049",
-    "text": "at least, you know, correct or slash accurate.",
-    "volume": "3.5870183",
-    "similarity": "0.653349444270134",
+    "timestamp": "2025-04-28T21:34:42.857589",
+    "text": "Hello, Pasha. Hello, Anu. Hello, Anu. Hello, Mandhi.",
+    "volume": "9.094038",
+    "similarity": "0.46619117856025694",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T18:12:20.481965",
-    "text": "Start training.",
-    "volume": "1.4869525",
-    "similarity": "0.6174672245979309",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:12:27.564146",
-    "text": "Now, can you record or improve everything I say?",
-    "volume": "1.4494857",
-    "similarity": "0.5927804946899414",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:12:33.137236",
-    "text": "When am I going to improve?",
-    "volume": "2.1536543",
-    "similarity": "0.5914634068806967",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:12:40.169300",
-    "text": "apply speech recognition improving.",
-    "volume": "2.308711",
-    "similarity": "0.5295178219676018",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:12:46.174178",
-    "text": "Now when is the speech recognition going to be improved?",
-    "volume": "15.20081",
-    "similarity": "0.6708992421627045",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:12:57.131875",
-    "text": "only if the similarity is greater.",
-    "volume": "1.9746962",
-    "similarity": "0.5899027585983276",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:12:59.454366",
-    "text": "Allah.",
-    "volume": "2.88586",
+    "timestamp": "2025-04-28T21:34:49.160865",
+    "text": "I had that with you.",
+    "volume": "6.799142",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T18:13:10.354842",
-    "text": "If his training and.",
-    "volume": "1.270385",
-    "similarity": "0.477422833442688",
+    "timestamp": "2025-04-28T21:34:58.217345",
+    "text": "Look, I still have my restless burger and...",
+    "volume": "4.319091",
+    "similarity": "0.463125616312027",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T18:13:13.488377",
-    "text": "there.",
-    "volume": "1.4048346",
+    "timestamp": "2025-04-28T21:38:30.646262",
+    "text": "",
+    "volume": "5.230577",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T18:13:15.989890",
-    "text": "And now my-",
-    "volume": "13.773405",
-    "similarity": "0.4713752567768097",
+    "timestamp": "2025-04-28T21:38:50.090060",
+    "text": "Hello. Testing one, two.",
+    "volume": "5.3763876",
+    "similarity": "0.5316168864568075",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T18:13:18.101385",
-    "text": "code.",
-    "volume": "1.7630419",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:13:40.158982",
-    "text": "happy nation living in a happy nation",
-    "volume": "1.3983914",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:13:53.562453",
-    "text": "second email.",
-    "volume": "1.2461767",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:13:56.472725",
-    "text": "Minus this",
-    "volume": "1.372418",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:14:01.382562",
-    "text": "30 divided by 2.",
-    "volume": "1.4253558",
-    "similarity": "0.4553675949573517",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:14:06.110298",
-    "text": "90 divided by 7",
-    "volume": "4.0405717",
-    "similarity": "0.5602980107069016",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:14:18.646064",
-    "text": "So I want to split 30 divided by three people. What will be the answer?",
-    "volume": "2.294292",
-    "similarity": "0.6999121308326721",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:15:13.524001",
-    "text": "you",
-    "volume": "1.7142106",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:15:40.264918",
-    "text": "I'm going to speak in Malayalam.",
-    "volume": "3.2064154",
-    "similarity": "0.5629236400127411",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:15:43.891961",
-    "text": "tomorrow.",
-    "volume": "1.2946693",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:16:04.020138",
-    "text": "So, OK, so you see, this is what I want to see. So that file has been removed, however.",
-    "volume": "2.552418",
-    "similarity": "0.6891038656234741",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:16:09.937477",
-    "text": "I do not fucking see that. So what's the new file doing?",
-    "volume": "1.2005681",
-    "similarity": "0.600771689414978",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:16:28.292881",
-    "text": "Thanks for watching!",
-    "volume": "2.468871",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:16:50.385186",
-    "text": "So at least now we can see what's been removed and what's been added.",
-    "volume": "1.4345691",
-    "similarity": "0.6820625364780426",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:16:56.527653",
-    "text": "Obviously it does mean that I have to improve mine.",
-    "volume": "2.1706483",
-    "similarity": "0.6495340585708618",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:17:03.526571",
-    "text": "See, I do not see the one three and all.",
-    "volume": "1.5563073",
-    "similarity": "0.559659743309021",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:17:09.531625",
-    "text": "Does this mean that the",
-    "volume": "1.2989343",
-    "similarity": "0.5118507544199625",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:17:12.401027",
-    "text": "N P Y",
-    "volume": "5.523012",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:17:14.273997",
-    "text": "data.",
-    "volume": "1.5553515",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:17:28.448518",
-    "text": "Does it also mean the NP was updated?",
-    "volume": "1.8279268",
-    "similarity": "0.588289886713028",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:18:05.468997",
-    "text": "I think I...",
-    "volume": "4.320457",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:20:37.802281",
-    "text": "Hello, what is 3 times 7?",
-    "volume": "2.9309385",
-    "similarity": "0.5369644165039062",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:21:15.664356",
-    "text": "What the hell?",
-    "volume": "6.608095",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:21:31.098864",
-    "text": "Well, I don't know what to do.",
-    "volume": "6.7657695",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:21:58.958577",
-    "text": "you say hello",
-    "volume": "10.191301",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:22:09.995847",
-    "text": "I don't know.",
-    "volume": "12.55887",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:22:31.509762",
-    "text": "Who are you?",
-    "volume": "15.383599",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:22:44.007612",
-    "text": "What a game I had to...",
-    "volume": "3.0748165",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:23:38.557579",
-    "text": "Thanks for watching!",
-    "volume": "5.20367",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:23:45.942871",
-    "text": "Hello?",
-    "volume": "1.4778242",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:23:48.900976",
-    "text": "Hello.",
-    "volume": "1.4629136",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:23:52.770992",
-    "text": "Why is the similarity so low?",
-    "volume": "1.2583162",
-    "similarity": "0.5230674147605896",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:03.658442",
-    "text": "So you see 31. Now what the f- why the fuck is 31 saved? That's what- that's my 30-",
-    "volume": "4.0026116",
-    "similarity": "0.739081621170044",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:14.275573",
-    "text": "Two times seven.",
-    "volume": "1.497357",
-    "similarity": "0.49302417039871216",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:19.533552",
-    "text": "three times two.",
-    "volume": "1.6558001",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:22.900904",
-    "text": "seven times seven.",
-    "volume": "1.762129",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:29.938325",
-    "text": "359,520",
-    "volume": "1.3542143",
-    "similarity": "0.5472306807835897",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:39.036960",
-    "text": "3,523,000 minus 7,502,000",
-    "volume": "1.4869642",
-    "similarity": "0.6504661679267884",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:50.986050",
-    "text": "3,523,000 minus 7,502,000",
-    "volume": "1.3632303",
-    "similarity": "0.6416410446166992",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:24:58.615629",
-    "text": "3,523,000 minus 7,502.",
-    "volume": "1.7242666",
-    "similarity": "0.6497922420501709",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:28:21.075395",
-    "text": "you",
-    "volume": "2.7027338",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:29:56.375157",
-    "text": "Three times seven.",
-    "volume": "3.5304408",
-    "similarity": "0.5341523885726929",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:30:00.440151",
-    "text": "Yo yo yo yo!",
-    "volume": "9.672401",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:30:29.044054",
-    "text": "Seven times two.",
-    "volume": "5.40276",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:30:38.433629",
-    "text": "Are you?",
-    "volume": "11.28014",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:31:08.008693",
-    "text": "you",
-    "volume": "3.295954",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:31:29.040853",
-    "text": "Testing one two three",
-    "volume": "1.3275337",
-    "similarity": "0.5560515522956848",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:31:34.255681",
-    "text": "Hi, I'm testing 123",
-    "volume": "1.5976006",
-    "similarity": "0.7009557485580444",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:31:50.442397",
-    "text": "Yeah, but what was the file name that's been updated?",
-    "volume": "1.1250249",
-    "similarity": "0.641635075211525",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:31:57.016012",
-    "text": "you",
-    "volume": "3.654201",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:32:13.862737",
-    "text": "This is good. One, two, three.",
-    "volume": "5.2338786",
-    "similarity": "0.6153496702512106",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:32:24.712914",
-    "text": "Per now, it does whatever.",
-    "volume": "1.7599113",
-    "similarity": "0.5777842402458191",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:32:38.424132",
-    "text": "Now it even shows you what was the new file that's been created.",
-    "volume": "1.2932749",
-    "similarity": "0.6300442069768906",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:32:44.025615",
-    "text": "Let's have a listen shall we?",
-    "volume": "2.6814766",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:33:03.987764",
-    "text": "you",
-    "volume": "2.7701607",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:34:47.695351",
-    "text": "Seven times seven.",
-    "volume": "2.198579",
-    "similarity": "0.5210161805152893",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:35:07.958932",
-    "text": "Does this mean that my new sample is improved?",
-    "volume": "2.0518577",
-    "similarity": "0.6915024995803833",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:35:19.217065",
-    "text": "This is where the files create.",
-    "volume": "1.4868758",
-    "similarity": "0.5306096076965332",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:35:24.350061",
-    "text": "Sorts by the number.",
-    "volume": "2.322614",
-    "similarity": "0.5494811832904816",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:35:54.542790",
-    "text": "and then it's looking at the similarity in the",
-    "volume": "4.928458",
-    "similarity": "0.5924181044101715",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:36:22.917301",
-    "text": "you",
-    "volume": "2.9187684",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:37:08.917457",
-    "text": "This is me.",
-    "volume": "13.288301",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:37:16.198951",
-    "text": "Cold, cold.",
-    "volume": "2.5851648",
-    "similarity": "0.451763391494751",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:37:24.504907",
-    "text": "to watch.",
-    "volume": "4.9462347",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:37:29.516959",
-    "text": "So when it's not my voice...",
-    "volume": "8.675114",
-    "similarity": "0.5581870079040527",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:38:41.281554",
-    "text": "If the voice embedding file is not there, what does that mean for the actual output? Also, next question, why is it not showing the output?",
-    "volume": "3.2307994",
-    "similarity": "0.8526260375976562",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:38:56.094996",
-    "text": "see that's really good",
-    "volume": "3.048738",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:39:10.174268",
-    "text": "See that's really good because how clear my voice is and how much it's recorded.",
-    "volume": "2.6686678",
-    "similarity": "0.7332866191864014",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:42:03.029267",
-    "text": "you",
-    "volume": "2.3787007",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:42:14.020624",
-    "text": "you",
-    "volume": "2.4734411",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:43:41.009839",
-    "text": "Thanks for watching!",
-    "volume": "2.2845907",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:44:32.575724",
-    "text": "you",
-    "volume": "1.7575364",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:44:46.680955",
-    "text": "Now it shouldn't just automatically go into creating new one, re-single also.",
-    "volume": "7.639967",
-    "similarity": "0.7395498991012573",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:45:41.404585",
-    "text": "Hello?",
-    "volume": "4.2391615",
-    "similarity": "0.47475332021713257",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:45:52.786029",
-    "text": "Why?",
-    "volume": "1.9519426",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:46:42.180786",
-    "text": "So this is to check when.",
-    "volume": "0.9332862",
-    "similarity": "0.5278694033622742",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:46:47.149119",
-    "text": "This is a check when...",
-    "volume": "1.747285",
-    "similarity": "0.5248333215713501",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:46:50.604261",
-    "text": "Hey, someone's talking.",
-    "volume": "1.6610838",
-    "similarity": "0.595660388469696",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:47:18.155766",
-    "text": "I don't need those shit.",
-    "volume": "1.5306522",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:47:24.187759",
-    "text": "I don't need p-",
-    "volume": "9.984316",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:07.169829",
-    "text": "But what are these trying to figure out?",
-    "volume": "0.97209483",
-    "similarity": "0.5852961341540018",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:12.736866",
-    "text": "At least it can be run on the GPUs.",
-    "volume": "1.8881241",
-    "similarity": "0.6300862550735473",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:18.716870",
-    "text": "hello testing one two three",
-    "volume": "1.2272624",
-    "similarity": "0.6605403423309326",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:24.787127",
-    "text": "Hello, this is my voice Brevin speaking. One, two, three.",
-    "volume": "1.2515708",
-    "similarity": "0.7405186176300049",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:30.098137",
-    "text": "Seven times seven.",
-    "volume": "2.8445537",
-    "similarity": "0.5858134627342224",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:33.060553",
-    "text": "three times two.",
-    "volume": "1.3977838",
-    "similarity": "0.5736466944217682",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:36.074530",
-    "text": "one times seven.",
-    "volume": "1.593603",
-    "similarity": "0.5191022157669067",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:38.014283",
-    "text": "Okay.",
-    "volume": "1.6027007",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:45.799935",
-    "text": "I'm gonna speak in Malayalam. Is this correct?",
-    "volume": "1.2218695",
-    "similarity": "0.5650311410427094",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:48:56.208058",
-    "text": "okay so if i give it context like malayalam",
-    "volume": "1.1238395",
-    "similarity": "0.7552026510238647",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:49:09.267541",
-    "text": "If I'm going to give a context like I'm speaking in Malayalam, then I'll understand everything I say, right?",
-    "volume": "1.0382986",
-    "similarity": "0.7340583801269531",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:50:00.124829",
-    "text": "I don't know how to play this game.",
-    "volume": "1.3984629",
-    "similarity": "0.5898439288139343",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:50:11.138243",
-    "text": "If I'm speaking in Malayalam and say",
-    "volume": "1.5414649",
-    "similarity": "0.7113738298416138",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:50:16.699914",
-    "text": "Do you understand what I'm saying?",
-    "volume": "1.2916031",
-    "similarity": "0.47125303745269775",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T18:53:00.216686",
-    "text": "you",
-    "volume": "2.2461069",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T18:53:27.217094",
-    "text": "you",
-    "volume": "13.041748",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:00:18.926118",
-    "text": "you",
-    "volume": "12.785869",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:02:03.276859",
-    "text": "you",
-    "volume": "8.7737255",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:07:39.209859",
-    "text": "Hello three times.",
-    "volume": "0.8990309",
-    "similarity": "0.5088405013084412",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:07:44.180203",
-    "text": "Three times so",
-    "volume": "1.0493072",
-    "similarity": "0.4564613103866577",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:07:50.233433",
-    "text": "Hello, what is...",
-    "volume": "0.8702599",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:07:57.239684",
-    "text": "Hello, what is three times seven?",
-    "volume": "0.85769945",
-    "similarity": "0.5381650775671005",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:08:49.755809",
-    "text": "Whoa-oh!",
-    "volume": "9.664975",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:09:24.143061",
-    "text": "Bye!",
-    "volume": "8.370961",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:12:10.300335",
+    "timestamp": "2025-04-28T21:38:55.049874",
     "text": "Thank you.",
-    "volume": "2.070263",
+    "volume": "11.155309",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T19:12:55.672389",
-    "text": "You must.",
-    "volume": "1.6847068",
+    "timestamp": "2025-04-28T21:39:44.054273",
+    "text": "",
+    "volume": "11.978563",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T19:14:00.277959",
-    "text": "Body! Body! Body!",
-    "volume": "10.43134",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:16:50.215798",
-    "text": "10 times 10.",
-    "volume": "1.6426454",
-    "similarity": "0.6113753914833069",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:17:36.228127",
-    "text": "What does he think that I'm saying?",
-    "volume": "1.0382545",
-    "similarity": "0.5462848842144012",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:17:46.281931",
-    "text": "Well, if similarity is a negative number, then completely ignore if it's less than.",
-    "volume": "1.598134",
-    "similarity": "0.8276999473571778",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:17:54.247427",
-    "text": "Let's say if it's less than the percent, no.",
-    "volume": "0.82937795",
-    "similarity": "0.578270306189855",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:18:00.195591",
-    "text": "I think that should be good.",
-    "volume": "0.97042096",
-    "similarity": "0.4875469207763672",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:18:03.099673",
-    "text": "forward.",
-    "volume": "1.0003324",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:18:27.778939",
-    "text": "you",
-    "volume": "2.7992487",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:18:33.773217",
-    "text": "This means it's activated.",
-    "volume": "14.806895",
-    "similarity": "0.5292090078194936",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:18:37.699220",
-    "text": "and they are above.",
-    "volume": "6.5219893",
-    "similarity": "0.4714035391807556",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:18:44.819398",
-    "text": "Couldn't that all be removed, the RMS?",
-    "volume": "2.1245785",
-    "similarity": "0.5572566866874695",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:18:53.823549",
-    "text": "this and this, that's what I mean.",
-    "volume": "14.67419",
-    "similarity": "0.5458266884088516",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:19:03.794848",
-    "text": "Let's have a look.",
-    "volume": "1.8489308",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:19:10.236165",
-    "text": "Let's have a look shall we? So what's 10 times 10?",
-    "volume": "2.6024156",
-    "similarity": "0.5695068836212158",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:19:26.159230",
-    "text": "you",
-    "volume": "2.3404837",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:19:57.823758",
-    "text": "When I see my face, every girl drinks and eats me.",
-    "volume": "1.8110458",
-    "similarity": "0.4707253674666087",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:20:04.762052",
-    "text": "Mohan Kundal",
-    "volume": "7.467184",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:20:09.852857",
-    "text": "In Malayalam, what does Mohamkondal mean?",
-    "volume": "1.6084453",
-    "similarity": "0.49722819924354555",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:20:18.153785",
-    "text": "at least.",
-    "volume": "5.9216547",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:20:32.753369",
-    "text": "Click.",
-    "volume": "2.0810244",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:20:37.738515",
-    "text": "major.",
-    "volume": "1.5558863",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:20:55.181843",
-    "text": "I guess what I can do is if someone.",
-    "volume": "3.672545",
-    "similarity": "0.5781097710132599",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:20:58.092911",
-    "text": "Negative completely ignored.",
-    "volume": "13.226931",
-    "similarity": "0.5487437546253204",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:02.711666",
-    "text": "10%.",
-    "volume": "0.93391025",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:08.768739",
-    "text": "It's less",
-    "volume": "11.416576",
-    "similarity": "0.5005835294723511",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:12.692848",
-    "text": "change.",
-    "volume": "1.0965773",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:20.822195",
-    "text": "Why does it miss certain keywords? Is it because it thinks that I'm going quiet?",
-    "volume": "1.1263831",
-    "similarity": "0.7136435985565186",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:27.768791",
-    "text": "It must be because I'm going quieter.",
-    "volume": "15.916403",
-    "similarity": "0.6470862552523613",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:35.202329",
-    "text": "I don't know if I'm saying something, am I going quiet?",
-    "volume": "1.3871385",
-    "similarity": "0.5149849057197571",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:39.147592",
-    "text": "It's always towards the end as well, isn't it?",
-    "volume": "0.97748685",
-    "similarity": "0.6099570592244467",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:21:42.082074",
-    "text": "Good morning.",
-    "volume": "1.1435195",
-    "similarity": "0.5429016798734665",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:22:05.692337",
+    "timestamp": "2025-04-28T21:40:11.042693",
     "text": "Thank you.",
-    "volume": "1.9633492",
+    "volume": "5.7333384",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T19:22:41.308748",
+    "timestamp": "2025-04-28T21:42:08.623121",
     "text": "you",
-    "volume": "3.578509",
+    "volume": "6.439474",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T19:22:50.300559",
-    "text": "you",
-    "volume": "4.0496707",
+    "timestamp": "2025-04-28T21:43:03.188395",
+    "text": "",
+    "volume": "6.4838862",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T19:23:16.165068",
-    "text": "Hello, I'm searching for Kochi Raja.",
-    "volume": "2.2871234",
-    "similarity": "0.5132840871810913",
+    "timestamp": "2025-04-28T22:51:57.537740",
+    "text": "hello hello testing one two three",
+    "volume": "9.567313",
+    "similarity": "0.5038279891014099",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:24:14.103627",
-    "text": "you",
-    "volume": "1.7349948",
+    "timestamp": "2025-04-28T22:52:43.336699",
+    "text": "Testing 1, 2, 3",
+    "volume": "8.369764",
     "similarity": "0.0",
     "is_me": "False"
   },
   {
-    "timestamp": "2025-04-28T19:24:36.691421",
-    "text": "you",
-    "volume": "9.1878",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:24:39.599190",
-    "text": "you",
-    "volume": "2.1017299",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:25:17.156361",
-    "text": "you",
-    "volume": "3.7885456",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:25:54.250555",
-    "text": "you",
-    "volume": "5.363499",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:26:15.153837",
-    "text": "you",
-    "volume": "1.3092407",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:26:59.634577",
-    "text": "you",
-    "volume": "3.5020134",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:27:14.214644",
-    "text": "you",
-    "volume": "2.3601274",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:29:05.792013",
-    "text": "you",
-    "volume": "9.705804",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:29:13.490040",
-    "text": "you",
-    "volume": "1.4613225",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:30:00.774958",
-    "text": "you",
-    "volume": "1.9283488",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:31:06.680186",
-    "text": "you",
-    "volume": "1.7308617",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:31:28.709705",
-    "text": "you",
-    "volume": "6.9516273",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:31:33.615161",
-    "text": "you",
-    "volume": "2.1437583",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:31:56.143722",
-    "text": "you",
-    "volume": "10.386594",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:32:59.716999",
-    "text": "you",
-    "volume": "13.3581505",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:33:06.300016",
-    "text": "you",
-    "volume": "1.8590381",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:34:27.111282",
-    "text": "Hello?",
-    "volume": "8.852767",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:34:33.099925",
-    "text": "Is this correct?",
-    "volume": "1.9204311",
-    "similarity": "0.5068186521530151",
+    "timestamp": "2025-04-28T22:52:48.642123",
+    "text": "Hello, testing 123",
+    "volume": "4.0303745",
+    "similarity": "0.5454208850860596",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:35:15.705364",
-    "text": "stop training",
-    "volume": "16.320223",
-    "similarity": "0.5428092554211617",
+    "timestamp": "2025-04-28T22:52:54.652194",
+    "text": "testing 1 2 3",
+    "volume": "1.2322054",
+    "similarity": "0.4961337298154831",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:35:17.391498",
-    "text": "training.",
-    "volume": "1.1948502",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:36:18.065072",
-    "text": "you",
-    "volume": "5.9341946",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:36:44.288294",
-    "text": "Is it possible to ignore all the warnings?",
-    "volume": "2.2686262",
-    "similarity": "0.6387095928192139",
+    "timestamp": "2025-04-28T22:53:36.690202",
+    "text": "Okay, I'm gonna try something",
+    "volume": "1.0719616",
+    "similarity": "0.638110876083374",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:36:51.248591",
-    "text": "Just a thought.",
-    "volume": "0.9409618",
-    "similarity": "0.6201533675193787",
+    "timestamp": "2025-04-28T22:53:51.308621",
+    "text": "Let me see if this goes well.",
+    "volume": "1.4445723",
+    "similarity": "0.5740389227867126",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:37:26.246463",
-    "text": "The white isn't up.",
-    "volume": "1.1982552",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:37:33.329480",
-    "text": "Why doesn't it pick up other audio?",
-    "volume": "1.0472221",
-    "similarity": "0.4921097457408905",
+    "timestamp": "2025-04-28T22:53:59.776749",
+    "text": "I don't really need the VOSK models anymore.",
+    "volume": "1.2574518",
+    "similarity": "0.5391722619533539",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:37:43.656592",
-    "text": "wise are small.",
-    "volume": "3.4555376",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:37:46.590038",
-    "text": "Is it actually meant...",
-    "volume": "1.3794724",
-    "similarity": "0.4634450078010559",
+    "timestamp": "2025-04-28T22:54:07.677654",
+    "text": "So I'm just going to",
+    "volume": "8.024733",
+    "similarity": "0.578572154045105",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:38:20.689525",
-    "text": "Remember I want to make sure that all of the fire is...",
-    "volume": "4.253155",
-    "similarity": "0.5693077445030212",
+    "timestamp": "2025-04-28T22:54:28.329247",
+    "text": "So I am just going to delete.",
+    "volume": "3.9055474",
+    "similarity": "0.5372146566708883",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:38:29.680015",
-    "text": "I want to make sure there is 20 recordings of me.",
-    "volume": "2.0746737",
-    "similarity": "0.7130454659461976",
+    "timestamp": "2025-04-28T22:54:37.869774",
+    "text": "So if I'm speaking in Malayalam, is what I'm saying clearer?",
+    "volume": "0.76130533",
+    "similarity": "0.5688300490379333",
     "is_me": "True"
   },
   {
-    "timestamp": "2025-04-28T19:38:35.076203",
-    "text": "Why isn't it checked?",
-    "volume": "2.0835843",
-    "similarity": "0.5038410276174545",
+    "timestamp": "2025-04-28T22:54:52.358134",
+    "text": "I guess it's the same, huh?",
+    "volume": "0.8258232",
+    "similarity": "0.5105389356613159",
     "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:38:46.060043",
-    "text": "That's the first thing I think, so...",
-    "volume": "11.890232",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:38:57.042686",
-    "text": "Ah, I need to delete this.",
-    "volume": "3.0947728",
-    "similarity": "0.4899482727050781",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:39:25.640033",
-    "text": "Hello, this is my voice.",
-    "volume": "1.2655077",
-    "similarity": "0.5832323829332987",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:39:30.598702",
-    "text": "I'm surprised it's high.",
-    "volume": "11.805191",
-    "similarity": "0.6208634575208029",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:39:38.053195",
-    "text": "I'm surprised it's not higher.",
-    "volume": "13.427344",
-    "similarity": "0.5064597129821777",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:39:49.715829",
-    "text": "I'm surprised it's not higher in terms of similarities and also I'm still talking can you fucking not cut me",
-    "volume": "9.062192",
-    "similarity": "0.7230821132659913",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:40:02.628048",
-    "text": "Interest Interest",
-    "volume": "2.1362743",
-    "similarity": "0.5169286727905273",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:40:16.036470",
-    "text": "interest when I say once it doesn't come up.",
-    "volume": "1.0540228",
-    "similarity": "0.5894649624824524",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:40:23.061326",
-    "text": "Okay, save, that's fine.",
-    "volume": "1.5565027",
-    "similarity": "0.6116132736206055",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:40:31.626819",
-    "text": "Does that mean?",
-    "volume": "1.7822173",
-    "similarity": "0.587562769651413",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:40:39.025718",
-    "text": "I need the buffer to be...",
-    "volume": "9.579294",
-    "similarity": "0.5648227334022522",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:40:53.979387",
-    "text": "you",
-    "volume": "5.3359003",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:41:41.726532",
-    "text": "Let's test if it works now.",
-    "volume": "1.7174691",
-    "similarity": "0.5039229393005371",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:41:54.777873",
-    "text": "Interesting.",
-    "volume": "1.2839038",
-    "similarity": "0.6098203063011169",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:42:04.382546",
-    "text": "There we go that's more like it.",
-    "volume": "2.483163",
-    "similarity": "0.5021563768386841",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:42:14.873298",
-    "text": "So at least now minimum seconds delay have been factored in.",
-    "volume": "1.2426068",
-    "similarity": "0.6945235848426818",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:42:31.785700",
-    "text": "What else needs to be factored in now?",
-    "volume": "1.0773865",
-    "similarity": "0.5266497731208801",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:43:40.933956",
-    "text": "No, I need to look.",
-    "volume": "13.729811",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:43:50.332394",
-    "text": "I took my shitty phone out.",
-    "volume": "10.157857",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:43:57.988682",
-    "text": "I'm gonna get my better fat done but I got lazy to go up both",
-    "volume": "10.55626",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:44:49.915545",
-    "text": "Yeah.",
-    "volume": "3.1985893",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:45:33.315772",
-    "text": "Well, encapsulate.",
-    "volume": "8.264966",
-    "similarity": "0.5180792361497879",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:45:56.457015",
-    "text": "yeah we don't want to be we don't want it to be like oh yeah yeah we can recommend encapsulate you guys be more like oh yeah my boy",
-    "volume": "8.676833",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:46:00.320915",
-    "text": "my boy Basil or my boy Melvin can hook you up with.",
-    "volume": "1.5454788",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:46:11.982673",
-    "text": "so like instead of being it as a that doesn't make sense so because then then you're moving",
-    "volume": "3.83368",
-    "similarity": "0.47540632635354996",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:46:17.293557",
-    "text": "And then it's a plumber.",
-    "volume": "8.874918",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:46:38.056262",
-    "text": "No, what I mean is, initially, I think... Yeah, because we're growing, because we're a startup, we wanted to be known as a...",
-    "volume": "14.843871",
-    "similarity": "0.4566234350204468",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:46:43.856572",
-    "text": "That doesn't make sense.",
-    "volume": "2.417537",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:00.306556",
-    "text": "I mean, okay, we'll see.",
-    "volume": "11.896607",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:14.295960",
-    "text": "I need a little mix in there.",
-    "volume": "2.442119",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:18.870965",
-    "text": "This is my new mic.",
-    "volume": "4.6646366",
-    "similarity": "0.5472809970378876",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:23.914241",
-    "text": "Obviously I don't want",
-    "volume": "4.6412463",
-    "similarity": "0.46669743955135345",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:32.555352",
-    "text": "I don't think so, Varun.",
-    "volume": "1.8236716",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:45.377913",
-    "text": "But I don't know what to do.",
-    "volume": "2.3027322",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:53.256407",
-    "text": "as your voices.",
-    "volume": "12.87389",
-    "similarity": "0.5232246120770773",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:47:58.859709",
-    "text": "Your voice is mine.",
-    "volume": "6.2012405",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:48:08.519561",
-    "text": "see how low that...",
-    "volume": "2.0771782",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:48:15.496502",
-    "text": "Well, obviously if you speak literally right the second after be the one",
-    "volume": "2.5031323",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:48:41.971623",
-    "text": "But I've added additional things in here to make sure I speak longer than a minimum",
-    "volume": "7.316935",
-    "similarity": "0.5593827247619629",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:48:44.269214",
-    "text": "Minimum of a second.",
-    "volume": "3.37425",
-    "similarity": "0.4589711129665375",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:48:55.954086",
-    "text": "So if I like, for example, this click gets registered or bye or thank you for watching because of the way.",
-    "volume": "11.570943",
-    "similarity": "0.5620708584785461",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:49:03.459529",
-    "text": "But anyways, and the next thing would be.",
-    "volume": "1.6611699",
-    "similarity": "0.5362830400466919",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:49:22.930065",
-    "text": "Obviously, we didn't pick up. So the next thing would be like, what's three times seven?",
-    "volume": "1.8804481",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:49:52.236331",
-    "text": "Yeah, unfortunately. So what I'm going to do is ignore any similarities. That's either negative, basically just less than 10. If it's less than 10, don't even show or don't even register it. Don't even think of it as recording. If it's above 10, then see what it that's what I'm going to put the logic.",
-    "volume": "5.5637374",
-    "similarity": "0.6333264827728271",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:50:00.910502",
-    "text": "But after that it's going to check way on this for the context and then it will respond",
-    "volume": "1.5721945",
-    "similarity": "0.6315906524658204",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:50:06.849694",
-    "text": "Was a hot dog and another hot dog.",
-    "volume": "2.919476",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:50:13.856307",
-    "text": "But a huddle and another huddle.",
-    "volume": "1.9227991",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:50:24.926291",
-    "text": "But a huddle and another a huddle. The huddle, the not a huddle.",
-    "volume": "3.1860995",
-    "similarity": "0.0",
-    "is_me": "False"
-  },
-  {
-    "timestamp": "2025-04-28T19:50:33.847625",
-    "text": "Yeah, but the thing is so much better.",
-    "volume": "1.6691158",
-    "similarity": "0.4509589672088623",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:51:05.457259",
-    "text": "Yes, you're not loud enough I'm a big fat asshole",
-    "volume": "1.3704737",
-    "similarity": "0.5133325457572937",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:51:15.818044",
-    "text": "yeah because i'm saying it first",
-    "volume": "9.734431",
-    "similarity": "0.45376718044281006",
-    "is_me": "True"
-  },
-  {
-    "timestamp": "2025-04-28T19:51:24.391900",
-    "text": "Should we do that?",
-    "volume": "9.471801",
-    "similarity": "0.0",
-    "is_me": "False"
   }
 ]

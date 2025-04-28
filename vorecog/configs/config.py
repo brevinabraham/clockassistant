@@ -16,6 +16,7 @@ MAX_AUDIO_SECONDS = 20
 MAX_AUDIO_BYTES = SAMPLE_RATE * MAX_AUDIO_SECONDS * 2
 PARTIAL_TRANSCRIBE_INTERVAL = 1.0
 SAMPLE_DURATION = 5
+USE_FASTER_WHISPER = False
 
 # New additions here:
 from pathlib import Path
@@ -23,4 +24,7 @@ VOICE_FOLDER = Path("vorecog/voice_sample")
 VOICE_FOLDER.mkdir(parents=True, exist_ok=True)
 EMBEDDING_PATH = VOICE_FOLDER / "your_embedding.npy"
 LOG_PATH = Path("vorecog/voice_log.json")
+BASE_DIR = Path(__file__).resolve().parent.parent
+MODELS_DIR = BASE_DIR / "models"
+
 
