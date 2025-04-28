@@ -24,4 +24,4 @@ Real-time speaker recognition and transcription using Faster-Whisper and SpeechB
 
 ## Author
 
-You 😎
+me 😎
