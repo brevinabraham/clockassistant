@@ -76,30 +76,69 @@ def generate_initial_embedding():
     samples = sorted(VOICE_FOLDER.glob("my_voice_new_*.wav"))
     if len(samples) < REQUIRED_SAMPLES:
         print("❗Please record more voice samples.")
-        exit()
+        record_remaining_samples = REQUIRED_SAMPLES - len(samples)
+        for i in range(record_remaining_samples):
+            recording = sd.rec(int(SAMPLE_RATE * SAMPLE_DURATION), samplerate=SAMPLE_RATE, channels=1, dtype='float32')
+            sd.wait()
+            audio_data = (recording.flatten() * 32767).astype(np.int16)
+            timestamp = int(time.time())
+            sample_path = VOICE_FOLDER / f"my_voice_new_{timestamp}.wav"
+            write(str(sample_path), SAMPLE_RATE, audio_data)
+            print(f"✅ Sample {i+1}/{record_remaining_samples} recorded.")
+            time.sleep(1)
+
+    # 🔥 AFTER recording, refresh the sample list!
+    samples = sorted(VOICE_FOLDER.glob("my_voice_new_*.wav"))
+
+    # Continue normally
     embeddings = [get_embedding(f) for f in samples]
     mean_emb = np.mean(embeddings, axis=0)
     np.save(EMBEDDING_PATH, mean_emb)
+    print("✅ Initial embedding created.")
     return mean_emb
 
-def save_and_train(audio_bytes, similarity, your_embedding):
-    path = VOICE_FOLDER / f"my_voice_new_{int(time.time())}.wav"
-    write(str(path), SAMPLE_RATE, np.frombuffer(audio_bytes, dtype=np.int16))
+
+def save_and_train(audio_bytes, your_embedding):
+    # 1. Save new file
+    new_path = VOICE_FOLDER / f"my_voice_new_{int(time.time())}.wav"
+    write(str(new_path), SAMPLE_RATE, np.frombuffer(audio_bytes, dtype=np.int16))
+    print(f"✅ New sample saved: {new_path.name}")
+
+    # 2. Gather all samples
     files = sorted(VOICE_FOLDER.glob("my_voice_new_*.wav"))
+
+    # 3. Get embeddings + similarity
     scores = []
     for f in files:
         emb = get_embedding(f)
         sim = cosine_similarity(emb, your_embedding)
         scores.append((f, emb, sim))
 
+    # 4. Sort all files by similarity, highest first
     scores.sort(key=lambda x: x[2], reverse=True)
-    for f, _, _ in scores[REQUIRED_SAMPLES:]:
-        # print(f"🗑️ Removed {f.name}")
-        f.unlink()
-    final_emb = np.mean([emb for _, emb, _ in scores[:REQUIRED_SAMPLES]], axis=0)
+
+    # 5. Check if too many samples
+    while len(scores) > REQUIRED_SAMPLES:
+        # Find oldest file (excluding the newest file)
+        removable = None
+        for f, _, _ in reversed(scores):  # reversed -> lowest similarity last
+            if f != new_path:
+                removable = f
+                break
+        if removable:
+            print(f"🗑️ Removing {removable.name}")
+            removable.unlink()
+            scores = [(f, emb, sim) for f, emb, sim in scores if f != removable]
+        else:
+            print("⚠️ No removable files found. Keeping all.")
+            break
+
+    # 6. Recompute final mean embedding
+    final_emb = np.mean([emb for _, emb, _ in scores], axis=0)
     np.save(EMBEDDING_PATH, final_emb)
-    # print(f"✅ Trained with sample (sim={similarity:.2f})")
+    print("✅ Embedding updated.")
     return final_emb
+
 
 # ========== Main ==========
 def main():
@@ -138,7 +177,7 @@ def main():
 
                     #partial showing
                     # if now - last_partial_transcribe >= PARTIAL_TRANSCRIBE_INTERVAL:
-                    #     if len(buffered_audio) > 0:
+                    #     if len(buffered_audio) > MIN_SECONDS_AUDIO*(SAMPLE_RATE * 2):
                     #         audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
                     #         text = transcribe_in_memory(audio_np)
 
@@ -156,13 +195,13 @@ def main():
 
                     avg_sim = sum(similarity_history) / len(similarity_history) if similarity_history else 0.0
 
-                    if is_training and sim >= SIMILARITY_PERCENTAGE and (now - last_training) > TRAINING_COOLDOWN:
-                        your_embedding = save_and_train(buffered_audio, sim, your_embedding)
+                    if is_training and len(buffered_audio) > MIN_SECONDS_AUDIO*(SAMPLE_RATE * 2) and sim >= SIMILARITY_PERCENTAGE and (now - last_speech) > SAMPLE_DURATION and (now - last_training) > TRAINING_COOLDOWN:
+                        your_embedding = save_and_train(buffered_audio, your_embedding)
                         last_training = now
 
                 else:
                     if is_currently_speaking and (now - last_speech) > SILENCE_DELAY_SECS:
-                        if len(buffered_audio) > 0:
+                        if len(buffered_audio) > MIN_SECONDS_AUDIO*(SAMPLE_RATE * 2):
                             audio_np = np.frombuffer(buffered_audio, dtype=np.int16).astype(np.float32) / 32767.0
                             text = transcribe_in_memory(audio_np)
 
@@ -195,9 +234,10 @@ def main():
                                 is_training = True
                                 
 
-                            buffered_audio = b""
-                            similarity_history.clear()
-                            is_currently_speaking = False
+                        buffered_audio = b""
+                        similarity_history.clear()
+                        is_currently_speaking = False
+                        last_speech = now
 
                 if is_speaking:
                     if last_state != 'speaking':
