@@ -208,5 +208,1895 @@
     "volume": "0.8258232",
     "similarity": "0.5105389356613159",
     "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-28T23:02:06.418491",
+    "text": "Hey, I'm running a test.",
+    "volume": "0.9919455",
+    "similarity": "0.5778420567512512",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-28T23:02:16.924024",
+    "text": "3 divided by 7.",
+    "volume": "0.88935465",
+    "similarity": "0.5285214930772781",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-28T23:03:06.590700",
+    "text": "What's the weather like?",
+    "volume": "3.1200805",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:21:59.147690",
+    "text": "Hello?",
+    "volume": "1.4745607",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:06.430012",
+    "text": "Hi, this is a test.",
+    "volume": "1.3142163",
+    "similarity": "0.5599513947963715",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:14.886098",
+    "text": "you",
+    "volume": "7.4414372",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:26.858943",
+    "text": "I",
+    "volume": "14.539901",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:30.841846",
+    "text": "you",
+    "volume": "4.096577",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:34.644745",
+    "text": "I",
+    "volume": "2.892007",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:38.450293",
+    "text": "I'll just throw it away and run away.",
+    "volume": "1.2757659",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:45.899683",
+    "text": "Bank",
+    "volume": "7.927657",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:48.175793",
+    "text": "I'm so sorry.",
+    "volume": "7.32193",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:22:55.954701",
+    "text": "What the hell?",
+    "volume": "10.145918",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:23:15.466783",
+    "text": "I'm going to go ahead and get the camera.",
+    "volume": "11.592675",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:23:29.258947",
+    "text": "you",
+    "volume": "7.762885",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:23:34.241917",
+    "text": "you",
+    "volume": "16.539495",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:23:37.142860",
+    "text": "you",
+    "volume": "7.42849",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:23:45.320000",
+    "text": "I'm sorry.",
+    "volume": "9.461647",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:23:55.876213",
+    "text": "you",
+    "volume": "10.657278",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:24:06.847554",
+    "text": "I",
+    "volume": "15.9335375",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:24:19.258630",
+    "text": "so",
+    "volume": "15.061418",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:24:23.226179",
+    "text": "you",
+    "volume": "11.96074",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:24:41.869020",
+    "text": "Malayali",
+    "volume": "12.84803",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:24:43.066078",
+    "text": "I'm a",
+    "volume": "11.623326",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:24:46.812790",
+    "text": "car.",
+    "volume": "5.16827",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:24:53.240281",
+    "text": "I",
+    "volume": "1.1414871",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:00.843610",
+    "text": "Mr.",
+    "volume": "13.9321165",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:02.603778",
+    "text": "I am Bob.",
+    "volume": "15.702571",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:04.581918",
+    "text": "Department",
+    "volume": "7.8061395",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:08.284408",
+    "text": "Arcade.",
+    "volume": "16.19231",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:15.838556",
+    "text": "the",
+    "volume": "13.678692",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:18.205589",
+    "text": "I think it's",
+    "volume": "8.88286",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:26.970213",
+    "text": "I'm not going to do anything.",
+    "volume": "15.992947",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:32.250190",
+    "text": "foreign",
+    "volume": "14.469533",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:42.856736",
+    "text": "I'm",
+    "volume": "15.454808",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:45.805553",
+    "text": "I'm gonna turn it up.",
+    "volume": "9.606919",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:48.676534",
+    "text": "you",
+    "volume": "9.165638",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:25:54.812648",
+    "text": "I",
+    "volume": "12.455866",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:26:00.259947",
+    "text": "There you go.",
+    "volume": "11.513416",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:26:03.745283",
+    "text": "us.",
+    "volume": "12.736182",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:26:08.206382",
+    "text": "you",
+    "volume": "16.151213",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:26:40.802672",
+    "text": "hmm",
+    "volume": "15.616128",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:26:44.781380",
+    "text": "you",
+    "volume": "14.301483",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:26:52.804822",
+    "text": "I",
+    "volume": "2.4606328",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:27:42.780471",
+    "text": "you",
+    "volume": "4.4767337",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:27:47.220535",
+    "text": "you",
+    "volume": "2.831202",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:27:59.418715",
+    "text": "Good night.",
+    "volume": "13.807148",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:28:08.882847",
+    "text": "Go, Balladal!",
+    "volume": "11.996401",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:28:11.743153",
+    "text": "I'm gonna do it with",
+    "volume": "8.7465105",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-28T23:28:15.806390",
+    "text": "I'm sorry.",
+    "volume": "7.5054913",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:15:45.568817",
+    "text": "you",
+    "volume": "1.5347334",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:16:06.605477",
+    "text": "What is 1 plus 1? Hello testing, what is 1 plus 1?",
+    "volume": "0.9488237",
+    "similarity": "0.5476085543632507",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:17:40.431129",
+    "text": "What is One Plus One?",
+    "volume": "1.5843735",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:18:09.057769",
+    "text": "Hello, what is one plus one?",
+    "volume": "1.8576989",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:23:03.118766",
+    "text": "What is one plus one?",
+    "volume": "3.3326313",
+    "similarity": "0.4593694508075714",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:23:33.700530",
+    "text": "What is one plus one?",
+    "volume": "2.869561",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:24:27.798581",
+    "text": "Hello.",
+    "volume": "3.28439",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:25:23.834485",
+    "text": "Testing 1 2 3",
+    "volume": "3.2070332",
+    "similarity": "0.5764183402061462",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:27:15.031056",
+    "text": "What is 1 plus 1?",
+    "volume": "3.1938148",
+    "similarity": "0.4753376990556717",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:28:29.387288",
+    "text": "What is OnePlus One?",
+    "volume": "10.921287",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:30:06.171558",
+    "text": "Walter is 1 plus 1",
+    "volume": "3.0109537",
+    "similarity": "0.4727475345134735",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:32:44.774717",
+    "text": "What is 1 plus 1?",
+    "volume": "3.0732892",
+    "similarity": "0.4558752179145813",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:34:31.143228",
+    "text": "What is 1 plus 1?",
+    "volume": "1.3660824",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:37:40.005956",
+    "text": "voltage is 1 plus",
+    "volume": "0.8492185",
+    "similarity": "0.5716664791107178",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:37:53.176615",
+    "text": "What is wonderful?",
+    "volume": "5.677226",
+    "similarity": "0.47207507491111755",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T00:38:07.191134",
+    "text": "2 is 1 plus 1",
+    "volume": "0.6979322",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:38:15.153285",
+    "text": "You f-",
+    "volume": "3.351938",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T00:38:22.211155",
+    "text": "What is 1 plus 1?",
+    "volume": "0.7908311",
+    "similarity": "0.5887925028800964",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T10:48:03.229153",
+    "text": "Hello testing",
+    "volume": "5.6569605",
+    "similarity": "0.4875953197479248",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T10:48:17.325136",
+    "text": "What is 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1?",
+    "volume": "6.809312",
+    "similarity": "0.5069029986858368",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:04:23.664998",
+    "text": "you",
+    "volume": "5.1950636",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:04:28.644994",
+    "text": "What is 1 plus 1 plus 1 plus 1?",
+    "volume": "5.387743",
+    "similarity": "0.46268269419670105",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:04:45.196677",
+    "text": "Waltz is 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1 plus 1",
+    "volume": "5.0926404",
+    "similarity": "0.5384514927864075",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:06:07.618963",
+    "text": "Hello, how are you? What is 1 plus 372 plus 7,573,502 plus 3 million?",
+    "volume": "5.693232",
+    "similarity": "0.6596816301345825",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:10:22.675075",
+    "text": "What is 1,523,000 plus 3,270,000,000 times 123?",
+    "volume": "5.58459",
+    "similarity": "0.5346517443656922",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:10:33.912632",
+    "text": "you",
+    "volume": "5.5501657",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:10:58.001641",
+    "text": "Can you speak in English?",
+    "volume": "5.5766673",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:11:17.494192",
+    "text": "you",
+    "volume": "5.8908",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:11:39.604043",
+    "text": "What is the capital of France?",
+    "volume": "6.058703",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:13:38.350654",
+    "text": "We have to change our vehicle and go. Last week we made a traffic jam in Kaluur. That day your son changed the shape of the road. He is now standing on the rock. You change the vehicle. I got it sir. This is Sundar. Why did you call him Sundar? Get the vehicle. Who is it?",
+    "volume": "8.331231",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:14:01.245211",
+    "text": "oh",
+    "volume": "7.6400623",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:14:06.925119",
+    "text": "One, two, four.",
+    "volume": "7.1084833",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:21:08.660147",
+    "text": "KATHRYN",
+    "volume": "10.20267",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:21:17.002718",
+    "text": "Hello, how are you?",
+    "volume": "16.424835",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:22:37.395474",
+    "text": "What is 3,523,000 times 1?",
+    "volume": "8.824439",
+    "similarity": "0.4706735908985138",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:23:19.968518",
+    "text": "7 times 3",
+    "volume": "5.6571417",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:28:18.732387",
+    "text": "What is 5 plus 2?",
+    "volume": "4.4730744",
+    "similarity": "0.5309765140215555",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:30:03.473076",
+    "text": "Capital of Spain",
+    "volume": "7.4378953",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:31:47.430427",
+    "text": "What is Python?",
+    "volume": "8.172473",
+    "similarity": "0.5346004962921143",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:33:28.987216",
+    "text": "What is capital of Spain?",
+    "volume": "9.890963",
+    "similarity": "0.5405203104019165",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:35:07.518610",
+    "text": "How are you?",
+    "volume": "12.310059",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:35:27.817991",
+    "text": "Write me a three-line poem about the moon and the sun.",
+    "volume": "6.3805637",
+    "similarity": "0.5872237324714661",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:35:57.715419",
+    "text": "Summarise the concept of black hole in one paragraph and two sentences.",
+    "volume": "5.3712273",
+    "similarity": "0.5559241533279419",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:36:45.855188",
+    "text": "the",
+    "volume": "7.795935",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:36:58.578010",
+    "text": "Explain the difference between AI and machine learning.",
+    "volume": "12.129178",
+    "similarity": "0.5175171017646789",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:50:28.273251",
+    "text": "you",
+    "volume": "2.7354305",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:50:32.819035",
+    "text": "What is 5 plus 7?",
+    "volume": "2.5046678",
+    "similarity": "0.4953232804934184",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:50:36.770988",
+    "text": "you",
+    "volume": "2.12284",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:50:41.712662",
+    "text": "Three times two.",
+    "volume": "1.9386975",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:52:23.977583",
+    "text": "Thanks.",
+    "volume": "3.4918878",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:53:00.105470",
+    "text": "What is 5 plus 7?",
+    "volume": "2.7507553",
+    "similarity": "0.45009541511535645",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:53:06.586817",
+    "text": "3 plus 2",
+    "volume": "3.1791146",
+    "similarity": "0.5030325651168823",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:53:15.592333",
+    "text": "2 times 7.",
+    "volume": "2.106091",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:53:23.572314",
+    "text": "9 times 7",
+    "volume": "2.295349",
+    "similarity": "0.5400251746177673",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:57:02.408031",
+    "text": "2 plus 7.",
+    "volume": "3.068906",
+    "similarity": "0.5828741192817688",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:57:20.915388",
+    "text": "2 times 2",
+    "volume": "1.9441488",
+    "similarity": "0.47073081135749817",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:57:30.106438",
+    "text": "4 times 12",
+    "volume": "2.401247",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T11:57:40.615121",
+    "text": "What is the answer to 4 times 12?",
+    "volume": "3.2927485",
+    "similarity": "0.5665936470031738",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:57:52.165750",
+    "text": "The answer to 7 times 2?",
+    "volume": "2.5522032",
+    "similarity": "0.5425594250361124",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:58:04.201467",
+    "text": "How many R's are there in strawberry?",
+    "volume": "2.0025904",
+    "similarity": "0.5298816959063212",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:58:18.204748",
+    "text": "Why is it only two R's in strawberry?",
+    "volume": "1.9222436",
+    "similarity": "0.6148922562599182",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T11:58:51.450611",
+    "text": "you",
+    "volume": "2.0244665",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:01:52.414510",
+    "text": "Who is the President of the United States right now?",
+    "volume": "2.3236082",
+    "similarity": "0.6526386737823486",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:02:05.882737",
+    "text": "What is 7 times 3?",
+    "volume": "2.6412241",
+    "similarity": "0.5862999975681304",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:02:14.288716",
+    "text": "What is 9 plus 10?",
+    "volume": "4.053794",
+    "similarity": "0.48468950390815735",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:02:21.186766",
+    "text": "but",
+    "volume": "13.267353",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:08:42.437870",
+    "text": "What is 7 plus 3?",
+    "volume": "2.432936",
+    "similarity": "0.6233079582452774",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:08:46.405736",
+    "text": "you",
+    "volume": "2.3262618",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:08:54.972600",
+    "text": "43.63 divided by 2.",
+    "volume": "3.1416626",
+    "similarity": "0.5294557631015777",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:10:41.797574",
+    "text": "Who is the president now?",
+    "volume": "4.4623556",
+    "similarity": "0.6152140945196152",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:11:12.526648",
+    "text": "What is the latest iPhone?",
+    "volume": "4.2116036",
+    "similarity": "0.5502150356769562",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:11:52.642882",
+    "text": "What is 43.63 divided by 2?",
+    "volume": "3.253061",
+    "similarity": "0.5952947258949279",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:13:34.933418",
+    "text": "What is the answer for 43.63 divided by 2? Then what is the answer for 43.63 divided by 4?",
+    "volume": "2.8908157",
+    "similarity": "0.5728461265563964",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:14:15.975774",
+    "text": "you",
+    "volume": "10.431449",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:14:25.720258",
+    "text": "So you're pretty quick when it comes to quick.",
+    "volume": "2.801765",
+    "similarity": "0.481977641582489",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:14:32.702950",
+    "text": "So it seems like you're pretty quick.",
+    "volume": "5.3091207",
+    "similarity": "0.5475524663925171",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:14:41.057740",
+    "text": "So who are you exactly?",
+    "volume": "3.4948785",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:15:13.405281",
+    "text": "Are you able to translate something for me if it's in a different language?",
+    "volume": "3.5486856",
+    "similarity": "0.60736985206604",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:15:44.141488",
+    "text": "you",
+    "volume": "2.9328249",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:16:14.827499",
+    "text": "Can I ask you to translate from English to Malayalam the word hello?",
+    "volume": "3.9581795",
+    "similarity": "0.6104947566986084",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:16:34.542181",
+    "text": "you",
+    "volume": "5.844289",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:16:43.128446",
+    "text": "you",
+    "volume": "3.7981522",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:16:52.774567",
+    "text": "Can you translate the word hello to Malayalam?",
+    "volume": "4.701557",
+    "similarity": "0.7645736694335937",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:17:11.812440",
+    "text": "Can you translate the word hello to Malayalam but write it in English?",
+    "volume": "2.8905416",
+    "similarity": "0.6879423499107361",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:17:32.198893",
+    "text": "Write it using English words.",
+    "volume": "2.7705204",
+    "similarity": "0.5742082715034484",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:17:48.657010",
+    "text": "Can you write the word hello in English?",
+    "volume": "2.7714453",
+    "similarity": "0.5389436185359955",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:17:59.383866",
+    "text": "Can you translate the word hello to Malayalam but write it using English letters?",
+    "volume": "2.5176804",
+    "similarity": "0.6633795022964477",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:18:32.093227",
+    "text": "you",
+    "volume": "9.257869",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:18:40.528520",
+    "text": "Okay.",
+    "volume": "5.0602655",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:24:47.611092",
+    "text": "you",
+    "volume": "3.6634688",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:24:55.864838",
+    "text": "Hello, how are you?",
+    "volume": "9.550268",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:25:16.523100",
+    "text": "Very good if I asked what is 7 times 3",
+    "volume": "2.9817805",
+    "similarity": "0.6503089666366577",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:25:30.488511",
+    "text": "Can you tell me about asynchronous programming?",
+    "volume": "3.2655094",
+    "similarity": "0.5988093972206116",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:01.372158",
+    "text": "Bye!",
+    "volume": "2.9977937",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:08.357263",
+    "text": "you",
+    "volume": "5.790851",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:20.759803",
+    "text": "you",
+    "volume": "4.544789",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:30.257029",
+    "text": "Do you know how to code?",
+    "volume": "3.9779677",
+    "similarity": "0.4901481866836548",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:33.725234",
+    "text": "you",
+    "volume": "3.921654",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:41.753048",
+    "text": "you",
+    "volume": "3.5038106",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:50.359686",
+    "text": "Thanks.",
+    "volume": "3.6725407",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:26:59.761177",
+    "text": "Do you know how to code in programming language?",
+    "volume": "5.954976",
+    "similarity": "0.5970836520195008",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:27:06.355967",
+    "text": "Bye.",
+    "volume": "3.830923",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:27:48.658616",
+    "text": "Do you know how to code?",
+    "volume": "4.820252",
+    "similarity": "0.5048508942127228",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:28:11.599536",
+    "text": "So I code mainly in Python and JavaScript.",
+    "volume": "3.3013885",
+    "similarity": "0.6112857639789582",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:28:29.548107",
+    "text": "Can you write me a simple Python code for printing hello?",
+    "volume": "3.031284",
+    "similarity": "0.670579731464386",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:28:50.712785",
+    "text": "you",
+    "volume": "2.7693079",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:28:59.091391",
+    "text": "Can you write the code in JavaScript?",
+    "volume": "3.2617536",
+    "similarity": "0.5831945180892945",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T12:29:59.970987",
+    "text": "you",
+    "volume": "2.4719265",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:30:30.683686",
+    "text": "you",
+    "volume": "4.337468",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:31:38.257285",
+    "text": "you",
+    "volume": "3.4059424",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:35:05.794581",
+    "text": "you",
+    "volume": "6.8423815",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T12:45:43.212782",
+    "text": "you",
+    "volume": "6.9065375",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:05:28.319645",
+    "text": "Testing 1 2 3 Hello testing 1 2 3",
+    "volume": "5.5572953",
+    "similarity": "0.4866562858223915",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:05:34.444537",
+    "text": "you",
+    "volume": "6.7063956",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:05:58.661519",
+    "text": "Who's the current president of US?",
+    "volume": "2.8561869",
+    "similarity": "0.6503096669912338",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:06:19.259640",
+    "text": "Who is the President of the United States?",
+    "volume": "5.0990005",
+    "similarity": "0.5785089731216431",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:06:39.111228",
+    "text": "Hello?",
+    "volume": "2.6088173",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:07:09.499366",
+    "text": "you",
+    "volume": "2.0407104",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:07:16.988555",
+    "text": "you",
+    "volume": "2.2124674",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:08:08.791741",
+    "text": "Who is the current president of the United States?",
+    "volume": "1.6863617",
+    "similarity": "0.6118617534637452",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:08:24.446161",
+    "text": "Who is the current President of the United States?",
+    "volume": "4.7889123",
+    "similarity": "0.6138449430465698",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:08:45.358256",
+    "text": "President of the United States.",
+    "volume": "1.978589",
+    "similarity": "0.6040568550427755",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:09:03.462744",
+    "text": "What is the price of gold right now?",
+    "volume": "2.4021423",
+    "similarity": "0.5902975499629974",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:09:18.963030",
+    "text": "What's happening in tech?",
+    "volume": "2.1700869",
+    "similarity": "0.48378886282444",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:09:29.131359",
+    "text": "you",
+    "volume": "2.4233162",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:24:37.275770",
+    "text": "Who is the current president of the United States?",
+    "volume": "2.1051612",
+    "similarity": "0.6129526436328888",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:27:36.594078",
+    "text": "Who is the current President of the United States?",
+    "volume": "2.1085825",
+    "similarity": "0.6227739900350571",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:27:59.488498",
+    "text": "How far away is the earth compared to the sun?",
+    "volume": "6.799061",
+    "similarity": "0.5871297061443329",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:28:13.984911",
+    "text": "What's the distance between the sun and the earth?",
+    "volume": "2.7282555",
+    "similarity": "0.6843902230262756",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:28:27.387647",
+    "text": "What is the capital of France?",
+    "volume": "2.8756113",
+    "similarity": "0.5575858950614929",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:30:49.118156",
+    "text": "Who is the President of the United States?",
+    "volume": "1.3878648",
+    "similarity": "0.6076400339603424",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:31:05.984455",
+    "text": "What is the capital of France?",
+    "volume": "3.9884896",
+    "similarity": "0.5380869507789612",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:31:15.224373",
+    "text": "Capital of Spain.",
+    "volume": "2.2672029",
+    "similarity": "0.5206521153450012",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:32:31.049225",
+    "text": "Who is the President of the United States?",
+    "volume": "2.749338",
+    "similarity": "0.55997034907341",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:33:47.037844",
+    "text": "Who is the President of the United States?",
+    "volume": "1.84815",
+    "similarity": "0.5793775618076324",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:40:43.308759",
+    "text": "Who is the current president of the US?",
+    "volume": "1.9076234",
+    "similarity": "0.5794914960861206",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:42:08.312263",
+    "text": "Who is the current president of the US?",
+    "volume": "1.5398412",
+    "similarity": "0.6313280463218689",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:42:20.472675",
+    "text": "you",
+    "volume": "4.1884885",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:42:29.911813",
+    "text": "Bye!",
+    "volume": "2.1872492",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:42:39.370159",
+    "text": "you",
+    "volume": "2.1301498",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:42:48.380192",
+    "text": "Bye!",
+    "volume": "2.5012746",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:42:58.041534",
+    "text": "What is...",
+    "volume": "2.3140452",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:43:09.561600",
+    "text": "What is the Pythagoras theorem?",
+    "volume": "1.5524968",
+    "similarity": "0.5388617366552353",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:43:18.817931",
+    "text": "you",
+    "volume": "1.7324198",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:43:30.520867",
+    "text": "what is the capital of France.",
+    "volume": "7.4649887",
+    "similarity": "0.5502220869064331",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:43:44.336189",
+    "text": "What is the formula for area of a circle? What is the boiling point of water?",
+    "volume": "3.4680526",
+    "similarity": "0.5995434761047364",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:43:53.871330",
+    "text": "Bye!",
+    "volume": "2.2374187",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:46:07.427075",
+    "text": "Who is the current president of the US?",
+    "volume": "4.0001135",
+    "similarity": "0.5655195042490959",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:46:37.580784",
+    "text": "you",
+    "volume": "4.097234",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:48:23.018593",
+    "text": "Who is the current president of the US?",
+    "volume": "2.6130369",
+    "similarity": "0.5612621456384659",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:48:34.818405",
+    "text": "Thanks for watching.",
+    "volume": "2.3975937",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:51:10.734583",
+    "text": "Who is the current president of the US?",
+    "volume": "1.6529325",
+    "similarity": "0.5417145371437073",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:51:23.893454",
+    "text": "you",
+    "volume": "3.0058444",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:53:24.130817",
+    "text": "who is the current president of the US.",
+    "volume": "3.1451015",
+    "similarity": "0.5936059951782227",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:56:53.291130",
+    "text": "Oh!",
+    "volume": "14.324665",
+    "similarity": "0.45974521040916444",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T15:57:02.963582",
+    "text": "you",
+    "volume": "11.755744",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T15:57:14.116719",
+    "text": "Who is the current president of the US?",
+    "volume": "4.0481286",
+    "similarity": "0.6333746115366617",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T16:41:01.836174",
+    "text": "Who is the president of the United States currently?",
+    "volume": "1.8074125",
+    "similarity": "0.6027835130691528",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T16:41:11.996528",
+    "text": "Bye.",
+    "volume": "1.9430431",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T16:41:47.003139",
+    "text": "you",
+    "volume": "1.5615644",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T16:46:03.253269",
+    "text": "What is the capital of France?",
+    "volume": "2.7243652",
+    "similarity": "0.4752063751220703",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T16:47:58.836513",
+    "text": "What is the capital of France?",
+    "volume": "3.1734319",
+    "similarity": "0.5432568192481995",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T16:50:58.937524",
+    "text": "capital of France.",
+    "volume": "4.0822344",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T16:53:28.275717",
+    "text": "What's the",
+    "volume": "4.936923",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T16:53:49.524262",
+    "text": "What's the capital of France?",
+    "volume": "5.9591618",
+    "similarity": "0.560307244459788",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T16:58:46.015273",
+    "text": "What is the capital of France?",
+    "volume": "3.7854888",
+    "similarity": "0.496409147977829",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T16:59:55.940756",
+    "text": "Walter is the capital of France.",
+    "volume": "3.7759516",
+    "similarity": "0.5110272169113159",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:00:38.957504",
+    "text": "What is the capital of France?",
+    "volume": "4.478063",
+    "similarity": "0.5532579198479652",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:00:53.044255",
+    "text": "What is an area of a circle?",
+    "volume": "4.437918",
+    "similarity": "0.6254031658172607",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:01:13.997471",
+    "text": "Who is the current President of the United States?",
+    "volume": "4.658886",
+    "similarity": "0.6560148596763611",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:05:35.489102",
+    "text": "What is the capital of France?",
+    "volume": "4.1067014",
+    "similarity": "0.4697702080011368",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:05:48.679147",
+    "text": "What is the area of a circle?",
+    "volume": "5.2848873",
+    "similarity": "0.5536327560742696",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:06:10.703193",
+    "text": "Who is the current President of the United States?",
+    "volume": "5.028782",
+    "similarity": "0.6841612219810486",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:07:15.100528",
+    "text": "Who is the current President of the United States?",
+    "volume": "4.320762",
+    "similarity": "0.586025869846344",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:09:22.472902",
+    "text": "who is the current president of the United States.",
+    "volume": "5.587853",
+    "similarity": "0.6398387789726258",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:09:43.611617",
+    "text": "Volt is 43.63 divided by 7",
+    "volume": "4.8258524",
+    "similarity": "0.5675073087215423",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T17:11:28.932723",
+    "text": "This is a beautiful spray.",
+    "volume": "10.802884",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T17:11:36.113315",
+    "text": "I'm just busy.",
+    "volume": "4.882934",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T17:11:43.602205",
+    "text": "I'm going to go get some water.",
+    "volume": "4.201953",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T17:11:52.280881",
+    "text": "Oh basically, Ryder has picked up on Ryder has picked up on",
+    "volume": "3.7580094",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T17:11:59.130997",
+    "text": "Out for delivery",
+    "volume": "3.9264004",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:07:46.746665",
+    "text": "you",
+    "volume": "1.5954064",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:14:23.688039",
+    "text": "What's the capital of France?",
+    "volume": "1.2394806",
+    "similarity": "0.5309320688247681",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:14:36.799997",
+    "text": "What is 300 plus 2?",
+    "volume": "1.8580116",
+    "similarity": "0.6620711088180542",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:16:58.175324",
+    "text": "Waltz is 300 plus 2",
+    "volume": "1.3908069",
+    "similarity": "0.5192264765501022",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:17:14.716925",
+    "text": "what is seven times",
+    "volume": "1.4439691",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:17:31.565260",
+    "text": "What is 3 times 7? What is 9 times 2? What is 2 times 9?",
+    "volume": "1.113064",
+    "similarity": "0.5631516098976135",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:18:02.838612",
+    "text": "who is the current president of the United",
+    "volume": "0.995406",
+    "similarity": "0.6069549719492594",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:19:28.984512",
+    "text": "is the current president of the United",
+    "volume": "1.1787063",
+    "similarity": "0.6615775028864542",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:21:06.795584",
+    "text": "Who is the current President of the United States?",
+    "volume": "1.4240357",
+    "similarity": "0.5958325117826462",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:22:26.007353",
+    "text": "seven times.",
+    "volume": "1.1604633",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:22:48.600800",
+    "text": "what's seven times",
+    "volume": "0.99738055",
+    "similarity": "0.5575506091117859",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:28:08.802974",
+    "text": "What is 3 times 7?",
+    "volume": "0.945707",
+    "similarity": "0.6077132523059845",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:28:19.896862",
+    "text": "9 plus 10",
+    "volume": "4.1735177",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:28:50.999501",
+    "text": "What is the current President of the United States?",
+    "volume": "2.5915208",
+    "similarity": "0.6986809492111206",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:29:23.987345",
+    "text": "Who is the President of United",
+    "volume": "1.7748438",
+    "similarity": "0.5321872383356094",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:30:01.395195",
+    "text": "Can you show me information about Donald Trump?",
+    "volume": "1.1477753",
+    "similarity": "0.5105404257774353",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:30:26.981982",
+    "text": "Who is the 47th president of the United",
+    "volume": "1.4520952",
+    "similarity": "0.6745176762342453",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:33:30.262523",
+    "text": "Who is the latest president?",
+    "volume": "1.2516749",
+    "similarity": "0.584866464138031",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:37:56.481731",
+    "text": "Who is the current President of the United States?",
+    "volume": "1.2373385",
+    "similarity": "0.599627673625946",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:42:32.847532",
+    "text": "Okay.",
+    "volume": "7.165506",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:45:40.961715",
+    "text": "Who is the current president of the United States?",
+    "volume": "6.571982",
+    "similarity": "0.6209403038024902",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:46:25.370446",
+    "text": "What is the largest building in the world?",
+    "volume": "6.9514775",
+    "similarity": "0.5266933441162109",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:47:14.945715",
+    "text": "Walter is the largest building.",
+    "volume": "6.5849023",
+    "similarity": "0.5589078764120737",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:47:50.487670",
+    "text": "which is the largest building and the size of",
+    "volume": "7.298513",
+    "similarity": "0.6341164946556092",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:48:42.694551",
+    "text": "you",
+    "volume": "11.190951",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:48:59.281922",
+    "text": "you",
+    "volume": "6.9392033",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:51:48.267529",
+    "text": "Who is the current President of the United States?",
+    "volume": "6.4117713",
+    "similarity": "0.6685739159584045",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:57:53.138284",
+    "text": "Who is the current President of the United States?",
+    "volume": "7.597989",
+    "similarity": "0.6948705464601517",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T21:58:57.945382",
+    "text": "you",
+    "volume": "7.1242957",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:59:15.301865",
+    "text": "you",
+    "volume": "11.73352",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T21:59:33.308331",
+    "text": "you",
+    "volume": "16.620182",
+    "similarity": "0.0",
+    "is_me": "False"
+  },
+  {
+    "timestamp": "2025-04-29T22:00:07.212055",
+    "text": "who is the current president of the United States.",
+    "volume": "8.369543",
+    "similarity": "0.5996869603792826",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T22:00:36.068563",
+    "text": "What is 128 divided by 2?",
+    "volume": "8.129366",
+    "similarity": "0.508158914744854",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T22:05:25.448990",
+    "text": "What is 3 times 2?",
+    "volume": "5.763031",
+    "similarity": "0.567560076713562",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T22:08:09.459560",
+    "text": "3 times 2.",
+    "volume": "6.6906953",
+    "similarity": "0.5371837615966797",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T22:08:30.201876",
+    "text": "What's the weather like today in Manchester?",
+    "volume": "6.7999372",
+    "similarity": "0.6397228439648946",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T22:09:11.471979",
+    "text": "What is the weather showing for Manchester today?",
+    "volume": "7.901155",
+    "similarity": "0.5977548480033874",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T22:10:16.513107",
+    "text": "What is the weather for Manchester, England this evening?",
+    "volume": "6.8985214",
+    "similarity": "0.6594196915626526",
+    "is_me": "True"
+  },
+  {
+    "timestamp": "2025-04-29T22:12:02.755460",
+    "text": "What's the weather like in Manchester, UK for this evening?",
+    "volume": "7.056876",
+    "similarity": "0.691467571258545",
+    "is_me": "True"
   }
 ]

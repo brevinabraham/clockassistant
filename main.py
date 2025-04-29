@@ -1,9 +1,13 @@
 import warnings
 warnings.filterwarnings("ignore", module="speechbrain")
 warnings.filterwarnings("ignore", module="torch")
+warnings.filterwarnings("ignore", module="whisper")
+warnings.filterwarnings("ignore", module="transformers")
 import numpy as np
 import time
 import datetime as dt
+import asyncio
+
 from vorecog.configs.config import *
 from vorecog.core.audio import start_stream, audio_queue
 from vorecog.core.transcribe import transcribe_audio
@@ -11,7 +15,7 @@ from vorecog.core.embedding import generate_initial_embedding, save_and_train
 from vorecog.core.recognise import recognise
 from vorecog.core.logger import save_log
 
-
+from vorecog.core.chat_router import handle_chat_async
 
 
 def main():
@@ -71,6 +75,10 @@ def main():
                                 "similarity": str(avg_sim),
                                 "is_me": str(avg_sim >= SIMILARITY_PERCENTAGE)
                             })
+                            
+                            response = asyncio.run(handle_chat_async(text))
+
+                            print(f"🤖 Response: {response}")
 
                         buffered_audio = b""
                         similarity_history.clear()
